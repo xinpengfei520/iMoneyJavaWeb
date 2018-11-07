@@ -1,0 +1,34 @@
+﻿{
+    "imageArr": [
+        {
+            "ID": "1",
+            "IMAPAURL": "http://gwop.xtrich.com/xtApp/lexianghuo1.html",
+            "IMAURL": "http://192.168.56.1:8080/P2PInvest/images/index01.jpg"
+        },
+        {
+            "ID": "2",
+            "IMAPAURL": "http://gwop.xtrich.com/xtApp/new-plan.html",
+            "IMAURL": "http://192.168.56.1:8080/P2PInvest/images/index02.jpg"
+        },
+        {
+            "ID": "3",
+            "IMAPAURL": "http://gwop.xtrich.com/xtApp/new-plan.html",
+            "IMAURL": "http://192.168.56.1:8080/P2PInvest/images/index03.jpg"
+        },
+        {
+            "ID": "5",
+            "IMAPAURL": "http://gwop.xtrich.com/xtApp/twcx.html",
+            "IMAURL": "http://192.168.56.1:8080/P2PInvest/images/index05.jpg"
+        }
+    ],
+    "proInfo": {
+        "id": "1",
+        "memberNum": "100",
+        "minTouMoney": "100",
+        "money": "10",
+        "name": "超级新手计划",
+        "progress": "90",
+        "suodingDays": "30",
+        "yearRate": "8.00"
+    }
+}

@@ -1,0 +1,5 @@
+{
+	"version": "1.2",
+	"apkUrl":"http://192.168.56.1:8080/P2PInvest/app_new.apk",
+	"desc":"解决一些bug, 优化网络请求!"
+}
