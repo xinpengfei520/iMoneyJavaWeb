@@ -24,7 +24,7 @@ public class StudentBusiness {
 	 * @return Student list
 	 */
 	public static List<Student> getAllStudents() {
-		List<Student> list = new ArrayList<Student>();
+		List<Student> list = new ArrayList<>();
 		DBHelper db = new DBHelper(SELECT_FROM_STUDENTS);
 		ResultSet ret = null;
 		PreparedStatement state = null;
