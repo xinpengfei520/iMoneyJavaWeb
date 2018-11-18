@@ -1,18 +1,17 @@
-package com.xpf.imoney.service;
-
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.IOException;
-import java.io.OutputStream;
+package com.xpf.imoney.servlet;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.io.OutputStream;
 
-@WebServlet(name = "ProductServlet", urlPatterns = "/product")
-public class ProductServlet extends HttpServlet {
+@WebServlet(name = "UpdateServlet", urlPatterns = "/update")
+public class UpdateServlet extends HttpServlet {
 
     public void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
@@ -21,13 +20,9 @@ public class ProductServlet extends HttpServlet {
 
     public void doPost(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
-        // request.setCharacterEncoding("utf-8");
-        // response.setCharacterEncoding("UTF-8");
-        // response.setContentType("text/html");
-        // response.setHeader("content-type","text/html;charset=UTF-8");
         OutputStream out = response.getOutputStream();
         String path = getServletContext().getRealPath("/")
-                + "json/product.json";
+                + "json/update.json";
         File file = new File(path);
         FileInputStream stream = new FileInputStream(file);
         int count = -1;

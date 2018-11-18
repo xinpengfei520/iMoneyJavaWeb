@@ -1,4 +1,4 @@
-package com.xpf.imoney.service;
+package com.xpf.imoney.servlet;
 
 import java.io.IOException;
 import java.io.PrintWriter;
