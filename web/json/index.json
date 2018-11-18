@@ -3,22 +3,22 @@
         {
             "ID": "1",
             "IMAPAURL": "http://gwop.xtrich.com/xtApp/lexianghuo1.html",
-            "IMAURL": "http://192.168.56.1:8080/P2PInvest/images/index01.jpg"
+            "IMAURL": "http://192.168.2.217:8080/iMoneyJavaWeb/images/index01.jpg"
         },
         {
             "ID": "2",
             "IMAPAURL": "http://gwop.xtrich.com/xtApp/new-plan.html",
-            "IMAURL": "http://192.168.56.1:8080/P2PInvest/images/index02.jpg"
+            "IMAURL": "http://192.168.2.217:8080/iMoneyJavaWeb/images/index02.jpg"
         },
         {
             "ID": "3",
             "IMAPAURL": "http://gwop.xtrich.com/xtApp/new-plan.html",
-            "IMAURL": "http://192.168.56.1:8080/P2PInvest/images/index03.jpg"
+            "IMAURL": "http://192.168.2.217:8080/iMoneyJavaWeb/images/index03.jpg"
         },
         {
             "ID": "5",
             "IMAPAURL": "http://gwop.xtrich.com/xtApp/twcx.html",
-            "IMAURL": "http://192.168.56.1:8080/P2PInvest/images/index05.jpg"
+            "IMAURL": "http://192.168.2.217:8080/iMoneyJavaWeb/images/index05.jpg"
         }
     ],
     "proInfo": {
