@@ -1,5 +1,5 @@
 {
 	"version": "1.2",
-	"apkUrl": "http://192.168.2.217:8080/iMoneyJavaWeb/apk/app_new.apk",
+	"apkUrl": "http://oss.pgyer.com/7aabc6bb8376ae74956857933966a16d.apk?Expires=1556976325&OSSAccessKeyId=uKgrdAVRfXyY0LsE&response-content-disposition=attachment%3B+filename%3DiMoney_android_V1.3.7-2019-05-04.apk&Signature=XZaJh3ZcPIoN%2BuCxSpijJlNm%2BBY%3D",
 	"desc": "解决一些bug,优化网络请求！"
 }
