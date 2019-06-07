@@ -1,0 +1,123 @@
+﻿[
+    {
+        "aqi": 48,
+        "area": "上海",
+        "pm25": 35,
+        "pm25_24h": 20,
+        "position_name": "十五厂",
+        "primary_pollutant": null,
+        "quality": "优",
+        "station_code": "1142A",
+        "time_point": "2019-06-07T19:00:00Z"
+    },
+    {
+        "aqi": 34,
+        "area": "上海",
+        "pm25": 34,
+        "pm25_24h": 26,
+        "position_name": "虹口",
+        "primary_pollutant": null,
+        "quality": "优",
+        "station_code": "1143A",
+        "time_point": "2019-06-07T19:00:00Z"
+    },
+    {
+        "aqi": 38,
+        "area": "上海",
+        "pm25": 34,
+        "pm25_24h": 24,
+        "position_name": "徐汇上师大",
+        "primary_pollutant": null,
+        "quality": "优",
+        "station_code": "1144A",
+        "time_point": "2019-06-07T19:00:00Z"
+    },
+    {
+        "aqi": 38,
+        "area": "上海",
+        "pm25": 38,
+        "pm25_24h": 27,
+        "position_name": "杨浦四漂",
+        "primary_pollutant": null,
+        "quality": "优",
+        "station_code": "1145A",
+        "time_point": "2019-06-07T19:00:00Z"
+    },
+    {
+        "aqi": 50,
+        "area": "上海",
+        "pm25": 40,
+        "pm25_24h": 20,
+        "position_name": "青浦淀山湖",
+        "primary_pollutant": null,
+        "quality": "优",
+        "station_code": "1146A",
+        "time_point": "2019-06-07T19:00:00Z"
+    },
+    {
+        "aqi": 53,
+        "area": "上海",
+        "pm25": 55,
+        "pm25_24h": 27,
+        "position_name": "静安监测站",
+        "primary_pollutant": "颗粒物(PM2.5)",
+        "quality": "良",
+        "station_code": "1147A",
+        "time_point": "2019-06-07T19:00:00Z"
+    },
+    {
+        "aqi": 35,
+        "area": "上海",
+        "pm25": 26,
+        "pm25_24h": 24,
+        "position_name": "浦东川沙",
+        "primary_pollutant": null,
+        "quality": "优",
+        "station_code": "1148A",
+        "time_point": "2019-06-07T19:00:00Z"
+    },
+    {
+        "aqi": 32,
+        "area": "上海",
+        "pm25": 28,
+        "pm25_24h": 18,
+        "position_name": "浦东新区监测站",
+        "primary_pollutant": null,
+        "quality": "优",
+        "station_code": "1149A",
+        "time_point": "2019-06-07T19:00:00Z"
+    },
+    {
+        "aqi": 35,
+        "area": "上海",
+        "pm25": 34,
+        "pm25_24h": 25,
+        "position_name": "浦东张江",
+        "primary_pollutant": null,
+        "quality": "优",
+        "station_code": "1150A",
+        "time_point": "2019-06-07T19:00:00Z"
+    },
+    {
+        "aqi": 53,
+        "area": "上海",
+        "pm25": 56,
+        "pm25_24h": 27,
+        "position_name": "普陀",
+        "primary_pollutant": "颗粒物(PM2.5)",
+        "quality": "良",
+        "station_code": "1141A",
+        "time_point": "2019-06-07T19:00:00Z"
+    },
+    {
+        "aqi": 64,
+        "area": "上海",
+        "pm25": 38,
+        "pm25_24h": 23,
+        "position_name": null,
+        "primary_pollutant": "臭氧8小时",
+        "quality": "良",
+        "station_code": null,
+        "time_point": "2019-06-07T19:00:00Z"
+    }
+]

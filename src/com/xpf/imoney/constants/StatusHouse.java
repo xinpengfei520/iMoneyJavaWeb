@@ -1,4 +1,4 @@
-package com.xpf.imoney.cons;
+package com.xpf.imoney.constants;
 
 import com.xpf.imoney.json.StatusObject;
 

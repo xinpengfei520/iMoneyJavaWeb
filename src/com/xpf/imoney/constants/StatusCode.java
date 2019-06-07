@@ -1,4 +1,4 @@
-package com.xpf.imoney.cons;
+package com.xpf.imoney.constants;
 
 /**
  * @date 2018-05-10
