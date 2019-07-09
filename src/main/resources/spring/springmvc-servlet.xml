@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:mvc="http://www.springframework.org/schema/mvc"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://www.springframework.org/schema/context
+       http://www.springframework.org/schema/context/spring-context.xsd
+       http://www.springframework.org/schema/mvc
+       http://www.springframework.org/schema/mvc/spring-mvc.xsd">
+
+    <!-- 扫描 Controller 的注解填写自己的控制器的包 -->
+    <context:component-scan base-package="com.xpf.imoney.controller"/>
+    <!-- 静态资源放行问题 -->
+    <mvc:default-servlet-handler/>
+    <!-- 配置代理 -->
+    <mvc:annotation-driven/>
+
+    <!-- 配置拦截器 -->
+    <mvc:interceptors>
+        <!-- 配置一个拦截器可以配置多个，那么拦截顺序则是从上到下 -->
+        <mvc:interceptor>
+            <!-- 拦截的 URI /* 代表拦截这一层的任意字符，/** 代表拦截任意层次的任意字符 -->
+            <mvc:mapping path="/**"/>
+            <!-- 不进行拦截的 uri -->
+            <mvc:exclude-mapping path="/index"/>
+            <mvc:exclude-mapping path="/login"/>
+            <!-- 拦截器的包 -->
+            <bean class="com.xpf.imoney.interceptor.LoginInterceptor"/>
+        </mvc:interceptor>
+    </mvc:interceptors>
+
+    <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver"
+          id="internalResourceViewResolver">
+        <property name="prefix" value="/jsp/"/>
+        <property name="suffix" value=".jsp"/>
+    </bean>
+</beans>

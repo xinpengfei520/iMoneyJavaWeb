@@ -3,4 +3,64 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
          version="4.0">
+
+    <!-- 配置 ContextLoaderListener，初始化 IOC 容器作用就是启动 Web 容器时，自动装配 ApplicationContext
+         的配置信息经常配合下面 <context-param> 使用 -->
+    <listener>
+        <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
+    </listener>
+
+    <!-- 上下文 -->
+    <context-param>
+        <param-name>contextConfigLocation</param-name>
+        <!-- classpath 其实就相当于 resources 文件夹-->
+        <param-value>classpath:spring/applicationContext.xml</param-value>
+    </context-param>
+
+    <!-- 防止 Spring 内存溢出监听器 -->
+    <listener>
+        <listener-class>org.springframework.web.util.IntrospectorCleanupListener</listener-class>
+    </listener>
+
+    <!-- Servlet 分发 -->
+    <servlet>
+        <servlet-name>springmvc</servlet-name>
+        <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
+        <init-param>
+            <param-name>contextConfigLocation</param-name>
+            <param-value>classpath:/spring/springmvc-servlet.xml</param-value>
+        </init-param>
+    </servlet>
+
+    <!-- characterEncodingFilter 字符编码过滤器 -->
+    <filter>
+        <filter-name>characterEncodingFilter</filter-name>
+        <filter-class>org.springframework.web.filter.CharacterEncodingFilter</filter-class>
+        <init-param>
+            <!-- 需要使用的字符集 -->
+            <param-name>encoding</param-name>
+            <param-value>UTF-8</param-value>
+        </init-param>
+        <init-param>
+            <!-- 是否强制设置 request 的编码为 encoding，即 UTF-8，默认为 false -->
+            <param-name>forceRequestEncoding</param-name>
+            <param-value>false</param-value>
+        </init-param>
+        <init-param>
+            <!-- 是否强制设置 response 的编码为 encoding，即 UTF-8 -->
+            <param-name>forceResponseEncoding</param-name>
+            <param-value>true</param-value>
+        </init-param>
+    </filter>
+
+    <filter-mapping>
+        <filter-name>characterEncodingFilter</filter-name>
+        <!-- 这里必须写 /* -->
+        <url-pattern>/*</url-pattern>
+    </filter-mapping>
+
+    <servlet-mapping>
+        <servlet-name>springmvc</servlet-name>
+        <url-pattern>/</url-pattern>
+    </servlet-mapping>
 </web-app>
