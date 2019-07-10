@@ -8,5 +8,5 @@ import com.xpf.imoney.bean.User;
  */
 public interface UserService {
 
-    User getUser(String name);
+    User getUserById(int id);
 }

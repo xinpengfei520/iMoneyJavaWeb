@@ -10,5 +10,5 @@ import java.util.List;
  * @date 2018年5月12日
  */
 public interface StudentService {
-    public List<Student> getAllStudents();
+    List<Student> getAllStudents();
 }

@@ -10,6 +10,9 @@ import javax.annotation.Resource;
 @Service("UserService")
 public class UserServiceImpl implements UserService {
 
+    public UserServiceImpl() {
+    }
+
     /**
      * mybatis 的接口
      */
@@ -17,7 +20,7 @@ public class UserServiceImpl implements UserService {
     private UserMapper userMapper;
 
     @Override
-    public User getUser(String name) {
-        return null;
+    public User getUserById(int id) {
+        return userMapper.findUserById(id);
     }
 }

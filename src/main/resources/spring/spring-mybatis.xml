@@ -2,10 +2,17 @@
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xmlns:context="http://www.springframework.org/schema/context"
-       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://www.springframework.org/schema/context
+       http://www.springframework.org/schema/context/spring-context.xsd">
 
-    <!--自动扫描包，包括控制层和持久层 -->
-    <context:component-scan base-package="com.xpf.imoney"/>
+    <!-- 自动扫描包，包括控制层和持久层 -->
+    <context:component-scan base-package="com.xpf.imoney.*"/>
+
+    <context:component-scan base-package="com.xpf.imoney.service"/>
+    <context:component-scan base-package="com.xpf.imoney.serviceimpl"/>
+    <context:component-scan base-package="com.xpf.imoney.mapper"/>
 
     <!-- 引入数据库配置文件 -->
     <bean id="propertyConfigurer" class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
@@ -33,7 +40,7 @@
         <property name="dataSource" ref="dataSource"/>
         <!-- 自动扫描 mapping.xml 文件 注意路径是 "/"，不是 "." -->
         <property name="mapperLocations" value="classpath:mybatis/mappers/*.xml"/>
-        <property name="configLocation" value="classpath:mybatis/mybatis-config.xml" />
+        <property name="configLocation" value="classpath:mybatis/mybatis-config.xml"/>
         <!-- 开启缓存支持 -->
         <property name="configurationProperties">
             <props>
@@ -60,13 +67,12 @@
 
     <!-- 扫描 DAO 持久层接口 -->
     <bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
-        <property name="basePackage" value="cc.xpf.imoney.mapper"/>
+        <property name="basePackage" value="com.xpf.imoney.mapper"/>
         <property name="sqlSessionFactoryBeanName" value="sqlSessionFactory"/>
     </bean>
 
     <!-- 数据库事务管理 -->
-    <bean id="transactionManager"
-          class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+    <bean id="transactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
         <property name="dataSource" ref="dataSource"/>
     </bean>
 

@@ -6,20 +6,22 @@ import com.xpf.imoney.service.StudentService;
 
 import java.util.List;
 
-
 /**
- * @date 2018年5月12日
  * @author Vancy
  * Function:
+ * @date 2018年5月12日
  */
 public class StudentServiceImpl implements StudentService {
 
-	/* (non-Javadoc)
-	 * @see service.StudentService#getAllStudents()
-	 */
-	@Override
-	public List<Student> getAllStudents() {
-		return StudentBusiness.getAllStudents();
-	}
+    public StudentServiceImpl() {
+    }
+
+    /* (non-Javadoc)
+     * @see service.StudentService#getAllStudents()
+     */
+    @Override
+    public List<Student> getAllStudents() {
+        return StudentBusiness.getAllStudents();
+    }
 
 }

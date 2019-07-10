@@ -25,6 +25,8 @@
         <commons-dbcp.version>1.4</commons-dbcp.version>
         <jstl.version>1.2</jstl.version>
         <fastjson.version>1.2.47</fastjson.version>
+        <swagger.version>1.0.2</swagger.version>
+        <swagger4j.version>2.1.5</swagger4j.version>
     </properties>
 
     <dependencies>
@@ -108,7 +110,6 @@
             <artifactId>spring-context-support</artifactId>
             <version>${spring.version}</version>
         </dependency>
-
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-test</artifactId>
@@ -166,6 +167,17 @@
             <artifactId>fastjson</artifactId>
             <version>${fastjson.version}</version>
         </dependency>
+        <!-- swagger -->
+        <dependency>
+            <groupId>com.mangofactory</groupId>
+            <artifactId>swagger-springmvc</artifactId>
+            <version>${swagger.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.cpjit</groupId>
+            <artifactId>swagger4j</artifactId>
+            <version>${swagger4j.version}</version>
+        </dependency>
     </dependencies>
 
     <build>
@@ -177,6 +189,14 @@
                 <configuration>
                     <source>1.8</source>
                     <target>1.8</target>
+                </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-war-plugin</artifactId>
+                <version>2.3</version>
+                <configuration>
+                    <failOnMissingWebXml>false</failOnMissingWebXml>
                 </configuration>
             </plugin>
         </plugins>

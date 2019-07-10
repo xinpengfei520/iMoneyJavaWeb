@@ -1,5 +1,7 @@
 package com.xpf.imoney.controller;
 
+import com.wordnik.swagger.annotations.Api;
+import com.wordnik.swagger.annotations.ApiOperation;
 import com.xpf.imoney.bean.User;
 import com.xpf.imoney.service.UserService;
 import org.springframework.stereotype.Controller;
@@ -13,15 +15,17 @@ import javax.annotation.Resource;
  * Created by Vance on 2019/07/09 :)
  * Function:控制层
  */
+@Api(value = "/user", description = "关于用户的一些操做。")
 @Controller
 public class UserController {
 
     @Resource
     private UserService userService;
 
-    @RequestMapping(value = "/index")
     @ResponseBody
-    public User index(@RequestParam("name") String name) {
-        return userService.getUser(name);
+    @RequestMapping(value = "/index")
+    @ApiOperation(value = "通过 ID 查询 USER 信息", httpMethod = "GET", notes = "暂无")
+    public User index(@RequestParam("id") int id) {
+        return userService.getUserById(id);
     }
 }
