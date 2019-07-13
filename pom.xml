@@ -25,8 +25,7 @@
         <commons-dbcp.version>1.4</commons-dbcp.version>
         <jstl.version>1.2</jstl.version>
         <fastjson.version>1.2.47</fastjson.version>
-        <swagger.version>1.0.2</swagger.version>
-        <swagger4j.version>2.1.5</swagger4j.version>
+        <swagger2.version>2.9.2</swagger2.version>
     </properties>
 
     <dependencies>
@@ -167,16 +166,16 @@
             <artifactId>fastjson</artifactId>
             <version>${fastjson.version}</version>
         </dependency>
-        <!-- swagger -->
+        <!-- swagger2 -->
         <dependency>
-            <groupId>com.mangofactory</groupId>
-            <artifactId>swagger-springmvc</artifactId>
-            <version>${swagger.version}</version>
+            <groupId>io.springfox</groupId>
+            <artifactId>springfox-swagger2</artifactId>
+            <version>${swagger2.version}</version>
         </dependency>
         <dependency>
-            <groupId>com.cpjit</groupId>
-            <artifactId>swagger4j</artifactId>
-            <version>${swagger4j.version}</version>
+            <groupId>io.springfox</groupId>
+            <artifactId>springfox-swagger-ui</artifactId>
+            <version>${swagger2.version}</version>
         </dependency>
     </dependencies>
 
