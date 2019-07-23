@@ -6,4 +6,6 @@
 
     <!-- 引入 Spring 和其他整合的配置文件，比如 spring-mybatis.xml 等 -->
     <import resource="classpath*:spring/spring-mybatis.xml"/>
+
+    <bean id="tokenManager" class="com.xpf.imoney.authorization.DefaultTokenManager"/>
 </beans>
