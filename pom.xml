@@ -27,6 +27,8 @@
         <fastjson.version>1.2.47</fastjson.version>
         <swagger2.version>2.9.2</swagger2.version>
         <aspectj.version>1.9.4</aspectj.version>
+        <hibernate.version>5.2.4.Final</hibernate.version>
+        <dbcp.version>1.2.2</dbcp.version>
     </properties>
 
     <dependencies>
@@ -188,6 +190,18 @@
             <groupId>org.aspectj</groupId>
             <artifactId>aspectjweaver</artifactId>
             <version>${aspectj.version}</version>
+        </dependency>
+        <!-- validator -->
+        <dependency>
+            <groupId>org.hibernate</groupId>
+            <artifactId>hibernate-validator</artifactId>
+            <version>${hibernate.version}</version>
+        </dependency>
+        <!-- DataSource 数据源 -->
+        <dependency>
+            <groupId>commons-dbcp</groupId>
+            <artifactId>commons-dbcp</artifactId>
+            <version>${dbcp.version}</version>
         </dependency>
     </dependencies>
 
