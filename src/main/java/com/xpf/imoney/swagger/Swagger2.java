@@ -29,8 +29,6 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 @EnableWebMvc
 public class Swagger2 {
 
-    // 访问地址：http://localhost:8080/iMoneyJavaWeb/swagger-ui.html
-
     @Bean
     public Docket createRestApi() {
         return new Docket(DocumentationType.SWAGGER_2)
