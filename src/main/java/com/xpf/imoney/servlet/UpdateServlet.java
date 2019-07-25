@@ -10,6 +10,10 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.OutputStream;
 
+/**
+ * Created by Vance on 2019/07/24 :)
+ * Function:
+ */
 @WebServlet(name = "UpdateServlet", urlPatterns = "/update")
 public class UpdateServlet extends HttpServlet {
 

@@ -15,6 +15,10 @@ import java.io.IOException;
 import java.io.OutputStream;
 import java.util.Map;
 
+/**
+ * Created by Vance on 2019/07/24 :)
+ * Function:
+ */
 @WebServlet(name = "PM25Servlet", urlPatterns = "/pm25")
 public class PM25Servlet extends HttpServlet {
 

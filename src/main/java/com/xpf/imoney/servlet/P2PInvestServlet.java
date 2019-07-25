@@ -1,14 +1,17 @@
 package com.xpf.imoney.servlet;
 
-import java.io.IOException;
-import java.io.PrintWriter;
-
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+import java.io.IOException;
+import java.io.PrintWriter;
 
+/**
+ * Created by Vance on 2019/07/24 :)
+ * Function:
+ */
 @WebServlet(name = "P2PInvestServlet", urlPatterns = "/invest")
 public class P2PInvestServlet extends HttpServlet {
 
