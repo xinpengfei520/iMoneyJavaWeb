@@ -5,12 +5,12 @@
     "act_info": [
       {
         "icon_url": "/operation/img/1478169868/1478761370286.png",
-        "name": "尚硅谷福利专区之111.1专区",
+        "name": "福利专区之111.1专区",
         "url": "/oper/1478169868app.html"
       },
       {
         "icon_url": "/operation/img/1478763176/1478762941492.png",
-        "name": "尚硅谷福利专区 黄金狗粮限量11.1元抢",
+        "name": "福利专区 黄金狗粮限量11.1元抢",
         "url": "/oper/1478763176app.html"
       }
     ],
@@ -153,7 +153,7 @@
       },
       {
         "cover_price": "199.00",
-        "figure": "/1447232577216.jpg",
+        "figure": "http://image.x-sir.com/app/shopping/1447232577216.jpg",
         "name": "【漫踪】原创 宫崎骏 龙猫 可爱雪地靴动漫保暖鞋周边冬季毛绒鞋子",
         "product_id": "2691"
       },
@@ -186,13 +186,13 @@
       {
         "cover_price": "138.00",
         "figure": "/supplier/1478873740576.jpg",
-        "name": "【尚硅谷】日常 萌系小天使卫衣--白色款",
+        "name": "【】日常 萌系小天使卫衣--白色款",
         "product_id": "10659"
       },
       {
         "cover_price": "138.00",
         "figure": "/supplier/1478873369497.jpg",
-        "name": "【尚硅谷】日常 萌系小恶魔卫衣--黑色款",
+        "name": "【】日常 萌系小恶魔卫衣--黑色款",
         "product_id": "10658"
       },
       {
@@ -210,13 +210,13 @@
       {
         "cover_price": "178.00",
         "figure": "/1478850234799.jpg",
-        "name": "【尚硅谷】妖狐图腾 阴阳师同人元素卫衣",
+        "name": "【】妖狐图腾 阴阳师同人元素卫衣",
         "product_id": "10655"
       },
       {
         "cover_price": "138.00",
         "figure": "/1478849792177.jpg",
-        "name": "【尚硅谷】学院风 日常百搭 宽松长袖衬衫",
+        "name": "【】学院风 日常百搭 宽松长袖衬衫",
         "product_id": "10654"
       }
     ],
@@ -226,21 +226,21 @@
         {
           "cover_price": "20.00",
           "figure": "/1478489000522.png",
-          "name": "尚硅谷购物节特供优惠券  满600-120优惠券",
+          "name": "购物节特供优惠券  满600-120优惠券",
           "origin_price": "20.00",
           "product_id": "7100"
         },
         {
           "cover_price": "10.00",
           "figure": "/1478489035167.png",
-          "name": "尚硅谷购物节特供优惠券  满300-80优惠券",
+          "name": "购物节特供优惠券  满300-80优惠券",
           "origin_price": "10.00",
           "product_id": "7101"
         },
         {
           "cover_price": "5.00",
           "figure": "/1478489878735.png",
-          "name": "尚硅谷购物节特供优惠券  满160-40优惠券",
+          "name": "购物节特供优惠券  满160-40优惠券",
           "origin_price": "5.00",
           "product_id": "7102"
         },
@@ -254,13 +254,13 @@
         {
           "cover_price": "5.00",
           "figure": "/1478678511949.png",
-          "name": "尚硅谷购物节特供优惠券  满60-20优惠券",
+          "name": "购物节特供优惠券  满60-20优惠券",
           "origin_price": "5.00",
           "product_id": "10536"
         },
         {
           "cover_price": "49.00",
-          "figure": "/1438680345318.jpg",
+          "figure": "http://image.x-sir.com/app/shopping/1438680345318.jpg",
           "name": "【古风原创】 自动直柄伞 晴雨伞 【青竹词】包邮  新增折叠伞",
           "origin_price": "59.00",
           "product_id": "555"
