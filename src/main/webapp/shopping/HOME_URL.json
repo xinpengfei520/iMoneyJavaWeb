@@ -16,7 +16,7 @@
     ],
     "banner_info": [
       {
-        "image": "/1478770583834.png",
+        "image": "http://image.x-sir.com/app/shopping/1478770583834.png",
         "option": 3,
         "type": 0,
         "value": {
@@ -24,7 +24,7 @@
         }
       },
       {
-        "image": "/1478770583835.png",
+        "image": "http://image.x-sir.com/app/shopping/1478770583835.png",
         "option": 2,
         "type": 0,
         "value": {
@@ -32,7 +32,7 @@
         }
       },
       {
-        "image": "/1478770583836.png",
+        "image": "http://image.x-sir.com/app/shopping/1478770583836.png",
         "option": 1,
         "type": 0,
         "value": {
@@ -135,19 +135,19 @@
     "hot_info": [
       {
         "cover_price": "159.00",
-        "figure": "/1477984921265.jpg",
+        "figure": "http://image.x-sir.com/app/shopping/1477984921265.jpg",
         "name": "现货【一方尘寰】剑侠情缘三剑三七秀 干将莫邪 90橙武仿烧蓝复古对簪",
         "product_id": "9356"
       },
       {
         "cover_price": "159.00",
-        "figure": "/1477984931882.jpg",
+        "figure": "http://image.x-sir.com/app/shopping/1477984931882.jpg",
         "name": "现货【一方尘寰】剑侠情缘三剑三七秀 干将莫邪 90橙武仿烧蓝复古对簪-特典版",
         "product_id": "10391"
       },
       {
         "cover_price": "29.00",
-        "figure": "/1452161899947.jpg",
+        "figure": "http://image.x-sir.com/app/shopping/1452161899947.jpg",
         "name": "【喵鹿酱】超萌 假透肉 拼接 踩脚过膝打底袜 裤袜-加绒保暖",
         "product_id": "3831"
       },
@@ -159,19 +159,19 @@
       },
       {
         "cover_price": "70.00",
-        "figure": "/1474370572805.jpg",
+        "figure": "http://image.x-sir.com/app/shopping/1474370572805.jpg",
         "name": "【现货】【GIRLISM少女主义】 第4期 2016夏秋刊 lolita",
         "product_id": "9414"
       },
       {
         "cover_price": "4.80",
-        "figure": "/1465268743242.jpg",
+        "figure": "http://image.x-sir.com/app/shopping/1465268743242.jpg",
         "name": "【艾漫】全职高手-蜜饯系列",
         "product_id": "6869"
       },
       {
         "cover_price": "143.10",
-        "figure": "/1477360350123.png",
+        "figure": "http://image.x-sir.com/app/shopping/1477360350123.png",
         "name": "【高冷猫】暗黑系软妹病娇药丸少女秋装假俩件加厚卫衣帽衫  预售",
         "product_id": "10136"
       },
@@ -203,19 +203,19 @@
       },
       {
         "cover_price": "18.00",
-        "figure": "/1478860081305.jpg",
+        "figure": "http://image.x-sir.com/app/shopping/1478860081305.jpg",
         "name": "【幸运星】烫金雪纺JSK的配件小物：手 套、项链",
         "product_id": "10656"
       },
       {
         "cover_price": "178.00",
-        "figure": "/1478850234799.jpg",
+        "figure": "http://image.x-sir.com/app/shopping/1478850234799.jpg",
         "name": "【】妖狐图腾 阴阳师同人元素卫衣",
         "product_id": "10655"
       },
       {
         "cover_price": "138.00",
-        "figure": "/1478849792177.jpg",
+        "figure": "http://image.x-sir.com/app/shopping/1478849792177.jpg",
         "name": "【】学院风 日常百搭 宽松长袖衬衫",
         "product_id": "10654"
       }
@@ -225,35 +225,35 @@
       "list": [
         {
           "cover_price": "20.00",
-          "figure": "/1478489000522.png",
+          "figure": "http://image.x-sir.com/app/shopping/1478489000522.png",
           "name": "购物节特供优惠券  满600-120优惠券",
           "origin_price": "20.00",
           "product_id": "7100"
         },
         {
           "cover_price": "10.00",
-          "figure": "/1478489035167.png",
+          "figure": "http://image.x-sir.com/app/shopping/1478489035167.png",
           "name": "购物节特供优惠券  满300-80优惠券",
           "origin_price": "10.00",
           "product_id": "7101"
         },
         {
           "cover_price": "5.00",
-          "figure": "/1478489878735.png",
+          "figure": "http://image.x-sir.com/app/shopping/1478489878735.png",
           "name": "购物节特供优惠券  满160-40优惠券",
           "origin_price": "5.00",
           "product_id": "7102"
         },
         {
           "cover_price": "49.00",
-          "figure": "/1475045805488.jpg",
+          "figure": "http://image.x-sir.com/app/shopping/1475045805488.jpg",
           "name": "【古风原创】 自动直柄伞 晴雨伞 【云鹤游】包邮  新增折叠伞",
           "origin_price": "69.00",
           "product_id": "9593"
         },
         {
           "cover_price": "5.00",
-          "figure": "/1478678511949.png",
+          "figure": "http://image.x-sir.com/app/shopping/1478678511949.png",
           "name": "购物节特供优惠券  满60-20优惠券",
           "origin_price": "5.00",
           "product_id": "10536"
