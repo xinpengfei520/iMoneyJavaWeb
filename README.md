@@ -11,3 +11,9 @@ iMoneyJavaWeb
 ## 2.接口文档
 
 [Swagger2](http://localhost:8080/iMoneyJavaWeb/swagger-ui.html)
+
+## 3.生成 war 包
+
+Build -> BuildArtifacts -> war build ...
+
+然后会在 target 目录下看到生成的 jar 包
