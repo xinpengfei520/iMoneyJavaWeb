@@ -27,70 +27,70 @@
           "p_catalog_id": "116",
           "parent_id": "7",
           "name": "Wacom\u7cfb\u5217",
-          "pic": "\/1472112184129.jpg",
+          "pic": "http://image.x-sir.com/app/shopping/1472112184129.jpg",
           "is_deleted": "0"
         },
         {
           "p_catalog_id": "112",
           "parent_id": "7",
           "name": "\u4ea4\u901a\u5361",
-          "pic": "\/product_catalog\/1465808719970.jpg",
+          "pic": "http://image.x-sir.com/app/shopping/1465808719970.jpg",
           "is_deleted": "0"
         },
         {
           "p_catalog_id": "103",
           "parent_id": "7",
           "name": "\u9f20\u952e",
-          "pic": "\/product_catalog\/1454061759825.jpg",
+          "pic": "http://image.x-sir.com/app/shopping/1454061759825.jpg",
           "is_deleted": "0"
         },
         {
           "p_catalog_id": "102",
           "parent_id": "7",
           "name": "U\u76d8",
-          "pic": "\/product_catalog\/1454061108683.jpg",
+          "pic": "http://image.x-sir.com/app/shopping/1454061108683.jpg",
           "is_deleted": "0"
         },
         {
           "p_catalog_id": "101",
           "parent_id": "7",
           "name": "\u8033\u673a",
-          "pic": "\/product_catalog\/1454060084922.png",
+          "pic": "http://image.x-sir.com/app/shopping/1454060084922.png",
           "is_deleted": "0"
         },
         {
           "p_catalog_id": "93",
           "parent_id": "7",
           "name": "\u7968\u52a1",
-          "pic": "\/product_catalog\/1454484273989.jpg",
+          "pic": "http://image.x-sir.com/app/shopping/1454484273989.jpg",
           "is_deleted": "0"
         },
         {
           "p_catalog_id": "50",
           "parent_id": "7",
           "name": "\u624b\u673a\u58f3",
-          "pic": "\/product_catalog\/1446017444813.jpg",
+          "pic": "http://image.x-sir.com/app/shopping/1446017444813.jpg",
           "is_deleted": "0"
         },
         {
           "p_catalog_id": "39",
           "parent_id": "7",
           "name": "\u79fb\u52a8\u7535\u6e90",
-          "pic": "\/product_catalog\/1446017382141.jpg",
+          "pic": "http://image.x-sir.com/app/shopping/1446017382141.jpg",
           "is_deleted": "0"
         },
         {
           "p_catalog_id": "40",
           "parent_id": "7",
           "name": "\u9f20\u6807\u57ab",
-          "pic": "\/product_catalog\/1446017408013.jpg",
+          "pic": "http://image.x-sir.com/app/shopping/1446017408013.jpg",
           "is_deleted": "0"
         },
         {
           "p_catalog_id": "41",
           "parent_id": "7",
           "name": "\u91d1\u5c5e\u8d34",
-          "pic": "\/product_catalog\/1446017422349.jpg",
+          "pic": "http://image.x-sir.com/app/shopping/1446017422349.jpg",
           "is_deleted": "0"
         }
       ],
@@ -105,7 +105,7 @@
           "name": "Censi \u58f0\u6c0f Moecen\u732b\u8033\u8033\u673a \u4e8c\u6b21\u5143 \u52a8\u6f2b \u5356\u840c \u5934\u6234\u5f0f \u84dd\u7259\u8033\u673a\u3010\u767d\u8272\u7248\u3011",
           "cover_price": "299.00",
           "brief": "",
-          "figure": "\/1469173640233.jpg",
+          "figure": "http://image.x-sir.com/app/shopping/1469173640233.jpg",
           "sell_time_start": "1469116800",
           "sell_time_end": "1469721600"
         },
@@ -119,7 +119,7 @@
           "name": "\u3010wacom\u3011\u6570\u4f4d\u677f\u753b\u677fctl471\u624b\u7ed8\u677fbamboo\u7535\u8111\u7ed8\u753b\u7535\u5b50\u7ed8\u56fe\u677fps",
           "cover_price": "329.00",
           "brief": "WACOM CTL471",
-          "figure": "\/supplier\/1467702094592.jpg",
+          "figure": "http://image.x-sir.com/app/shopping/1467702094592.jpg",
           "sell_time_start": "0",
           "sell_time_end": "0"
         },
@@ -147,7 +147,7 @@
           "name": "\u3010\u781a\u6c60\u5de5\u4f5c\u5ba4\u3011\u5251\u7f51\u4e09 \u52513\u540c\u4eba\u5168\u95e8\u6d3e\u884d\u751flogo\u5468\u8fb9 \u91d1\u5c5e\u624b\u673a\u8d34\u3010\u94f6\u8272\u3011",
           "cover_price": "30.00",
           "brief": "",
-          "figure": "\/1468840600394.jpg",
+          "figure": "http://image.x-sir.com/app/shopping/1468840600394.jpg",
           "sell_time_start": "1468771200",
           "sell_time_end": "1469376000"
         },
@@ -161,7 +161,7 @@
           "name": "\u3010\u6b6a\u74dc\u51fa\u54c1\u3011Spirit E666\u7cbe\u7075\u8033\u6735 \u5165\u8033\u5f0f\u8033\u673a cos\u6444\u5f71\u9053\u5177\u76f4\u64ad\u8033\u585e",
           "cover_price": "99.00",
           "brief": "",
-          "figure": "\/1478833408658.jpg",
+          "figure": "http://image.x-sir.com/app/shopping/1478833408658.jpg",
           "sell_time_start": "1478793600",
           "sell_time_end": "1479398400"
         },
@@ -175,7 +175,7 @@
           "name": "\u3010ROCK\u3011\u54c6\u5566A\u68a6\u81ea\u62cd\u6746\u795e\u5668",
           "cover_price": "49.00",
           "brief": "",
-          "figure": "\/1475979038217.jpg",
+          "figure": "http://image.x-sir.com/app/shopping/1475979038217.jpg",
           "sell_time_start": "1478581200",
           "sell_time_end": "1478581200"
         }

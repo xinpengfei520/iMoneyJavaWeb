@@ -4,12 +4,12 @@
   "result": {
     "act_info": [
       {
-        "icon_url": "/operation/img/1478169868/1478761370286.png",
+        "icon_url": "http://image.x-sir.com/app/shopping/1478761370286.png",
         "name": "福利专区之111.1专区",
         "url": "/oper/1478169868app.html"
       },
       {
-        "icon_url": "/operation/img/1478763176/1478762941492.png",
+        "icon_url": "http://image.x-sir.com/app/shopping/1478762941492.png",
         "name": "福利专区 黄金狗粮限量11.1元抢",
         "url": "/oper/1478763176app.html"
       }
@@ -43,7 +43,7 @@
     "channel_info": [
       {
         "channel_name": "服饰",
-        "image": "/app/img/menu-cyc.png",
+        "image": "http://image.x-sir.com/app/shopping/menu-cyc.png",
         "option": 2,
         "type": 1,
         "value": {
@@ -52,7 +52,7 @@
       },
       {
         "channel_name": "游戏",
-        "image": "/app/img/menu-game.png",
+        "image": "http://image.x-sir.com/app/shopping/menu-game.png",
         "option": 2,
         "type": 1,
         "value": {
@@ -61,7 +61,7 @@
       },
       {
         "channel_name": "动漫",
-        "image": "/app/img/menu-carttoon.png",
+        "image": "http://image.x-sir.com/app/shopping/menu-carttoon.png",
         "option": 2,
         "type": 1,
         "value": {
@@ -70,7 +70,7 @@
       },
       {
         "channel_name": "装扮",
-        "image": "/app/img/menu-cosplay.png",
+        "image": "http://image.x-sir.com/app/shopping/menu-cosplay.png",
         "option": 2,
         "type": 1,
         "value": {
@@ -79,7 +79,7 @@
       },
       {
         "channel_name": "古风",
-        "image": "/app/img/menu-oldage.png",
+        "image": "http://image.x-sir.com/app/shopping/menu-oldage.png",
         "option": 2,
         "type": 1,
         "value": {
@@ -88,7 +88,7 @@
       },
       {
         "channel_name": "漫展票务",
-        "image": "/app/img/menu-collect.png",
+        "image": "http://image.x-sir.com/app/shopping/menu-collect.png",
         "option": 2,
         "type": 1,
         "value": {
@@ -97,7 +97,7 @@
       },
       {
         "channel_name": "文具",
-        "image": "/app/img/menu-stationery.png",
+        "image": "http://image.x-sir.com/app/shopping/menu-stationery.png",
         "option": 2,
         "type": 1,
         "value": {
@@ -106,7 +106,7 @@
       },
       {
         "channel_name": "零食",
-        "image": "/app/img/menu-snack.png",
+        "image": "http://image.x-sir.com/app/shopping/menu-snack.png",
         "option": 2,
         "type": 1,
         "value": {
@@ -115,7 +115,7 @@
       },
       {
         "channel_name": "首饰",
-        "image": "/app/img/menu-jewelry.png",
+        "image": "http://image.x-sir.com/app/shopping/menu-jewelry.png",
         "option": 2,
         "type": 1,
         "value": {
@@ -124,7 +124,7 @@
       },
       {
         "channel_name": "更多",
-        "image": "/app/img/menu-more.png",
+        "image": "http://image.x-sir.com/app/shopping/menu-more.png",
         "option": 6,
         "type": 1,
         "value": {

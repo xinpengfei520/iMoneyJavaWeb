@@ -13,21 +13,21 @@
           "p_catalog_id": "52",
           "parent_id": "51",
           "name": "\u65e5\u5e38",
-          "pic": "\/product_catalog\/1446017524434.jpg",
+          "pic": "http://image.x-sir.com/app/shopping/1446017524434.jpg",
           "is_deleted": "0"
         },
         {
           "p_catalog_id": "96",
           "parent_id": "51",
           "name": "\u6cf3\u8863",
-          "pic": "\/product_catalog\/1449216802403.jpg",
+          "pic": "http://image.x-sir.com/app/shopping/1449216802403.jpg",
           "is_deleted": "0"
         },
         {
           "p_catalog_id": "109",
           "parent_id": "51",
           "name": "\u6c49\u98ce",
-          "pic": "\/product_catalog\/1465383063303.jpg",
+          "pic": "http://image.x-sir.com/app/shopping/1465383063303.jpg",
           "is_deleted": "0"
         },
         {
@@ -41,14 +41,14 @@
           "p_catalog_id": "55",
           "parent_id": "51",
           "name": "lolita",
-          "pic": "\/product_catalog\/1446017570261.jpg",
+          "pic": "http://image.x-sir.com/app/shopping/1446017570261.jpg",
           "is_deleted": "0"
         },
         {
           "p_catalog_id": "56",
           "parent_id": "51",
           "name": "\u521b\u610fT\u6064",
-          "pic": "\/product_catalog\/1446017583897.jpg",
+          "pic": "http://image.x-sir.com/app/shopping/1446017583897.jpg",
           "is_deleted": "0"
         }
       ],
@@ -77,7 +77,7 @@
           "name": "\u3010\u6d41\u70df\u6614\u6ce0\u3011\u6c49\u5143\u7d20 \u534a\u81c2 \u77ed\u5b8b\u88e4 \u540a\u5e26 \u523a\u7ee3 \u8c46\u853b\u5e74\u534e\u5c11\u5973\u7cfb\u5217-\u6e05\u79cb\u5154 \u534a\u81c2",
           "cover_price": "99.00",
           "brief": "7\u670815\u65e5\u8d77\u8fdb\u5165\u7b2c\u56db\u6279\u9884\u5b9a\uff0c\u7b2c\u56db\u6279\u7ea67\u670831\u65e5\u5de6\u53f3\u53d1\u8d27",
-          "figure": "\/1465295954097.jpg",
+          "figure": "http://image.x-sir.com/app/shopping/1465295954097.jpg",
           "sell_time_start": "1465228800",
           "sell_time_end": "1465833600"
         },
@@ -91,7 +91,7 @@
           "name": "\u3010\u6d41\u70df\u6614\u6ce0\u3011\u6c49\u5143\u7d20 \u534a\u81c2 \u77ed\u5b8b\u88e4 \u540a\u5e26 \u523a\u7ee3 \u8c46\u853b\u5e74\u534e\u5c11\u5973\u7cfb\u5217-\u6e05\u79cb\u5154 \u540a\u5e26",
           "cover_price": "59.00",
           "brief": "7\u670815\u65e5\u8d77\u8fdb\u5165\u7b2c\u56db\u6279\u9884\u5b9a\uff0c\u7b2c\u56db\u6279\u7ea67\u670831\u65e5\u5de6\u53f3\u53d1\u8d27",
-          "figure": "\/1465296158907.jpg",
+          "figure": "http://image.x-sir.com/app/shopping/1465296158907.jpg",
           "sell_time_start": "1465228800",
           "sell_time_end": "1465833600"
         },
@@ -105,7 +105,7 @@
           "name": "\u3010\u6f2b\u8e2a\u3011 \u539f\u521b\u53ef\u7231\u840c\u732b\u54aa\u5927\u4eba \u7acb\u4f53\u732b\u5c3eT\u6064 \u857e\u4e1d\u82b1\u8fb9\u5973",
           "cover_price": "79.00",
           "brief": "",
-          "figure": "\/1461571069605.jpg",
+          "figure": "http://image.x-sir.com/app/shopping/1461571069605.jpg",
           "sell_time_start": "1455638400",
           "sell_time_end": "1456243200"
         },
@@ -119,7 +119,7 @@
           "name": "\u3010\u6f2b\u8e2a\u3011\u5bab\u5d0e\u9a8f \u9f99\u732b\u5957\u88c5 \u5973\u51ac \u5e3d\u5b50\u886c\u886b\u80cc\u5fc3\u6253\u5e95\u88e4\u77ed\u88e4",
           "cover_price": "105.00",
           "brief": "\u80cc\u5fc3\u4e0a\u5c0f\u6302\u4ef6\u8d60\u5b8c\u5373\u6b62\u54e6\n",
-          "figure": "\/1451012249243.jpg",
+          "figure": "http://image.x-sir.com/app/shopping/1451012249243.jpg",
           "sell_time_start": "1450972800",
           "sell_time_end": "1451577600"
         },
@@ -133,7 +133,7 @@
           "name": "\u3010\u53e4\u602a\u820d\u3011\u539f\u521b\u8bbe\u8ba1 \u6076\u7075\u9000\u6563\u7eaf\u68c9\u4e03\u5206\u8896T\u6064 \u79cb\u5b63\u65e5\u7cfb\u539f\u5bbf\u7537\u5973\u88c5A21",
           "cover_price": "63.00",
           "brief": "",
-          "figure": "\/1464245798979.jpg",
+          "figure": "http://image.x-sir.com/app/shopping/1464245798979.jpg",
           "sell_time_start": "1478772000",
           "sell_time_end": "1462982400"
         }

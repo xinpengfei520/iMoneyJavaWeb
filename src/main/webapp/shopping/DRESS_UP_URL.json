@@ -9,28 +9,28 @@
           "name": "服装",
           "p_catalog_id": "18",
           "parent_id": "4",
-          "pic": "/product_catalog/1446016631439.jpg"
+          "pic": "http://image.x-sir.com/app/shopping/1446016631439.jpg"
         },
         {
           "is_deleted": "0",
           "name": "假发",
           "p_catalog_id": "19",
           "parent_id": "4",
-          "pic": "/product_catalog/1446016650875.jpg"
+          "pic": "http://image.x-sir.com/app/shopping/1446016650875.jpg"
         },
         {
           "is_deleted": "0",
           "name": "道具",
           "p_catalog_id": "20",
           "parent_id": "4",
-          "pic": "/product_catalog/1446016673365.jpg"
+          "pic": "http://image.x-sir.com/app/shopping/1446016673365.jpg"
         },
         {
           "is_deleted": "0",
           "name": "妆面",
           "p_catalog_id": "21",
           "parent_id": "4",
-          "pic": "/product_catalog/1446016713541.jpg"
+          "pic": "http://image.x-sir.com/app/shopping/1446016713541.jpg"
         }
       ],
       "hot_product_list": [
@@ -67,7 +67,7 @@
           "brief": "",
           "channel_id": "5",
           "cover_price": "94.50",
-          "figure": "/supplier/1471315793182.jpg",
+          "figure": "http://image.x-sir.com/app/shopping/1471315793182.jpg",
           "name": "现货【桂】苏葉 洛丽塔空气刘海 青灰色日常软妹lolita原宿假发",
           "p_catalog_id": "19",
           "product_id": "8759",
@@ -81,7 +81,7 @@
           "brief": "精灵之舞之幻雾 空气刘海 长发及腰卷发 深灰色 长70cm",
           "channel_id": "5",
           "cover_price": "79.00",
-          "figure": "/supplier/1469436115002.jpg",
+          "figure": "http://image.x-sir.com/app/shopping/1469436115002.jpg",
           "name": "现货【桂】幻雾 洛丽塔空气刘海奶奶灰 及腰长卷发lolita日系假发",
           "p_catalog_id": "19",
           "product_id": "8351",
@@ -109,7 +109,7 @@
           "brief": "精灵之舞系列之绿林 渐变梨花头 收脸鬓角 发尾自然内扣 爱不释手~ 自留款~",
           "channel_id": "5",
           "cover_price": "69.00",
-          "figure": "/supplier/1469436287434.jpg",
+          "figure": "http://image.x-sir.com/app/shopping/1469436287434.jpg",
           "name": "现货【桂】绿林 梨花头内扣Lolita日常绿色渐变原宿 洛丽塔假发",
           "p_catalog_id": "19",
           "product_id": "8352",

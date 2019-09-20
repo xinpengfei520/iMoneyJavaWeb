@@ -13,49 +13,49 @@
           "p_catalog_id": "32",
           "parent_id": "6",
           "name": "\u7b14\u8bb0\u672c",
-          "pic": "\/product_catalog\/1446017226590.jpg",
+          "pic": "http://image.x-sir.com/app/shopping/1446017226590.jpg",
           "is_deleted": "0"
         },
         {
           "p_catalog_id": "33",
           "parent_id": "6",
           "name": "\u6587\u4ef6\u5939",
-          "pic": "\/product_catalog\/1446017259628.jpg",
+          "pic": "http://image.x-sir.com/app/shopping/1446017259628.jpg",
           "is_deleted": "0"
         },
         {
           "p_catalog_id": "34",
           "parent_id": "6",
           "name": "\u4fbf\u7b7e\u672c",
-          "pic": "\/product_catalog\/1446017278468.jpg",
+          "pic": "http://image.x-sir.com/app/shopping/1446017278468.jpg",
           "is_deleted": "0"
         },
         {
           "p_catalog_id": "35",
           "parent_id": "6",
           "name": "\u7b14\u888b\u7b14\u7b52",
-          "pic": "\/product_catalog\/1446017289189.jpg",
+          "pic": "http://image.x-sir.com/app/shopping/1446017289189.jpg",
           "is_deleted": "0"
         },
         {
           "p_catalog_id": "37",
           "parent_id": "6",
           "name": "\u5361\u5957\/\u5361\u8d34",
-          "pic": "\/product_catalog\/1446017305527.jpg",
+          "pic": "http://image.x-sir.com/app/shopping/1446017305527.jpg",
           "is_deleted": "0"
         },
         {
           "p_catalog_id": "38",
           "parent_id": "6",
           "name": "\u548c\u98ce\u7eb8\u80f6\u5e26",
-          "pic": "\/product_catalog\/1446017320396.jpg",
+          "pic": "http://image.x-sir.com/app/shopping/1446017320396.jpg",
           "is_deleted": "0"
         },
         {
           "p_catalog_id": "87",
           "parent_id": "6",
           "name": "\u7b14\u58a8",
-          "pic": "\/product_catalog\/1446017336258.jpg",
+          "pic": "http://image.x-sir.com/app/shopping/1446017336258.jpg",
           "is_deleted": "0"
         }
       ],
@@ -70,7 +70,7 @@
           "name": "\u3010\u5c0f\u8ff7\u5154\u7684\u5468\u8fb9\u3011\u5251\u7f513 \u5251\u4fa0\u60c5\u7f18\u53c1\u95e8\u6d3e\u538b\u76ae\u6d3b\u9875\u7b14\u8bb0\u672c",
           "cover_price": "29.00",
           "brief": "<p>\u00a0\u5251\u7f51\u4e09 \u52513\u00a0\u538b\u76ae\u6d3b\u9875\u7b14\u8bb0\u672c<br \/><\/p><p>\u51fa\u54c1\uff1a\u5c0f\u8ff7\u5154\u7684\u5468\u8fb9<\/p>",
-          "figure": "\/1471501055587.jpg",
+          "figure": "http://image.x-sir.com/app/shopping/1471501055587.jpg",
           "sell_time_start": "0",
           "sell_time_end": "0"
         },
@@ -84,7 +84,7 @@
           "name": "\u3010\u6b6a\u74dc\u51fa\u54c1\u3011 \u7b26\u6587\u7eb8\u80f6\u5e26 \u9053\u58eb\u7b26\u7eb8 \u5c01\u5370\u4e2d\u4e8c \u624b\u8d26\u88c5\u9970\u80f6\u5e26",
           "cover_price": "15.00",
           "brief": "",
-          "figure": "\/1462531089095.jpg",
+          "figure": "http://image.x-sir.com/app/shopping/1462531089095.jpg",
           "sell_time_start": "1462464000",
           "sell_time_end": "1463068800"
         },
@@ -98,7 +98,7 @@
           "name": "\u9884\u552e\u3010\u6b6a\u74dc\u51fa\u54c1\u3011 \u4e94\u5e74\u9ad8\u8003\u4e09\u5e74\u6a21\u62df\u7b14\u8bb0 \u521b\u610f\u6587\u5177\u65e5\u8bb0\u672c\u8bb0\u4e8b\u672c \u6d41\u884c\u6897",
           "cover_price": "15.00",
           "brief": "6\u6708\u4e2d\u65ec\u53d1\u8d27~",
-          "figure": "\/1462530064674.jpg",
+          "figure": "http://image.x-sir.com/app/shopping/1462530064674.jpg",
           "sell_time_start": "1462464000",
           "sell_time_end": "1463068800"
         },
@@ -112,7 +112,7 @@
           "name": "\u3010\u5c0f\u8ff7\u5154\u3011\u5251\u4fa0\u60c5\u7f18\u53c1 \u5251\u7f513 \u5251\u4e09\u95e8\u6d3e\u52a8\u7269\u7845\u80f6\u5361\u5957",
           "cover_price": "15.00",
           "brief": "\u51fa\u54c1\uff1a\u5c0f\u8ff7\u5154\u7684\u5468\u8fb9\n~\u5361\u5957\u53ea\u5e26\u80f6\u5e26\uff0c\u65e0\u6302\u7ef3\u5662\u266a(^\u2207^*)",
-          "figure": "\/1471501518349.jpg",
+          "figure": "http://image.x-sir.com/app/shopping/1471501518349.jpg",
           "sell_time_start": "0",
           "sell_time_end": "0"
         },
