@@ -14,6 +14,7 @@ import java.io.*;
 @WebServlet(name = "IndexServlet", urlPatterns = "/index")
 public class IndexServlet extends HttpServlet {
 
+    @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         OutputStream os = response.getOutputStream();
         String path = getServletContext().getRealPath("/") + "json/index.json";
@@ -29,6 +30,7 @@ public class IndexServlet extends HttpServlet {
         os.close();
     }
 
+    @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         doPost(request, response);
     }

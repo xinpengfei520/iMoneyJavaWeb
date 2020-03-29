@@ -12,6 +12,10 @@ iMoneyJavaWeb
 
 [Swagger2](http://localhost:8080/iMoneyJavaWeb/swagger-ui.html)
 
+本地请求地址：
+
+http://localhost:8080/iMoneyJavaWeb/QiniuUpToken
+
 ## 3.生成 war 包
 
 Build -> BuildArtifacts -> war build ...
