@@ -2,7 +2,9 @@ package com.xpf.imoney.servlet;
 
 import com.google.gson.Gson;
 import com.qiniu.util.Auth;
-import com.xpf.imoney.constants.QiniuConstants;
+import com.qiniu.util.IOUtils;
+import com.xpf.imoney.bean.request.QiniuRequestBean;
+import org.apache.http.util.TextUtils;
 
 import javax.servlet.ServletException;
 import javax.servlet.ServletOutputStream;
@@ -22,17 +24,31 @@ public class QiniuUpTokenServlet extends HttpServlet {
 
     @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        Auth auth = Auth.create(QiniuConstants.ACCESS_KEY, QiniuConstants.SECRET_KEY);
-        String upToken = auth.uploadToken(QiniuConstants.BUCKET);
-        System.out.println(upToken);
+        byte[] bytes = IOUtils.toByteArray(request.getInputStream());
+        String requestBody = new String(bytes);
 
-        HashMap<String,String> map = new HashMap<>();
-        map.put("upToken",upToken);
-        String json = new Gson().toJson(map);
-        System.out.println(json);
+        QiniuRequestBean qiniuRequestBean = new Gson().fromJson(requestBody, QiniuRequestBean.class);
+        String accessKey = qiniuRequestBean.getAccessKey();
+        String secretKey = qiniuRequestBean.getSecretKey();
+        String bucket = qiniuRequestBean.getBucket();
+
+        System.out.println("accessKey:" + accessKey + ",secretKey:" + secretKey + ",bucket:" + bucket);
+
+        HashMap<String, String> map = new HashMap<>();
+        if (!TextUtils.isEmpty(accessKey) && !TextUtils.isEmpty(secretKey) && !TextUtils.isEmpty(bucket)) {
+            Auth auth = Auth.create(accessKey, secretKey);
+            String upToken = auth.uploadToken(bucket);
+            System.out.println("upToken:" + upToken);
+            map.put("upToken", upToken);
+        } else {
+            map.put("errorMsg", "accessKey、secretKey、bucket都不能为空！");
+        }
+
+        String responseBody = new Gson().toJson(map);
+        System.out.println("responseBody:" + responseBody);
 
         ServletOutputStream out = response.getOutputStream();
-        out.write(json.getBytes());
+        out.write(responseBody.getBytes());
         out.flush();
         out.close();
     }
