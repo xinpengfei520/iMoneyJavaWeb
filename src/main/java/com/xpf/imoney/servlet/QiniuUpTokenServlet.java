@@ -13,6 +13,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
+import java.nio.charset.StandardCharsets;
 import java.util.HashMap;
 
 /**
@@ -25,7 +26,8 @@ public class QiniuUpTokenServlet extends HttpServlet {
     @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         byte[] bytes = IOUtils.toByteArray(request.getInputStream());
-        String requestBody = new String(bytes);
+        String requestBody = new String(bytes, StandardCharsets.UTF_8);
+        System.out.println("requestBody:" + requestBody);
 
         QiniuRequestBean qiniuRequestBean = new Gson().fromJson(requestBody, QiniuRequestBean.class);
         String accessKey = qiniuRequestBean.getAccessKey();
@@ -48,7 +50,7 @@ public class QiniuUpTokenServlet extends HttpServlet {
         System.out.println("responseBody:" + responseBody);
 
         ServletOutputStream out = response.getOutputStream();
-        out.write(responseBody.getBytes());
+        out.write(responseBody.getBytes(StandardCharsets.UTF_8));
         out.flush();
         out.close();
     }

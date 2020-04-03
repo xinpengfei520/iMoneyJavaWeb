@@ -1,10 +1,12 @@
 package com.xpf.imoney.bean.request;
 
+import java.io.Serializable;
+
 /**
  * Created by Vance on 2020/4/3 :)
  * Function:
  */
-public class QiniuRequestBean {
+public class QiniuRequestBean implements Serializable {
 
     private String accessKey;
     private String secretKey;
