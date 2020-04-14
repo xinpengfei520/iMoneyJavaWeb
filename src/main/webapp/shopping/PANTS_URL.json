@@ -1,25 +1,25 @@
 {
   "code": 200,
-  "msg": "\u8bf7\u6c42\u6210\u529f",
+  "msg": "请求成功",
   "result": [
     {
       "p_catalog_id": "57",
       "parent_id": "0",
-      "name": "\u4e0b\u88c5",
+      "name": "下装",
       "pic": "",
       "is_deleted": "0",
       "child": [
         {
           "p_catalog_id": "110",
           "parent_id": "57",
-          "name": "\u6c49\u98ce",
+          "name": "汉风",
           "pic": "http://image.x-sir.com/app/shopping/1465383117300.jpg",
           "is_deleted": "0"
         },
         {
           "p_catalog_id": "59",
           "parent_id": "57",
-          "name": "\u53e4\u98ce",
+          "name": "古风",
           "pic": "http://image.x-sir.com/app/shopping/1446017608030.jpg",
           "is_deleted": "0"
         },
@@ -33,21 +33,21 @@
         {
           "p_catalog_id": "62",
           "parent_id": "57",
-          "name": "\u80d6\u6b21",
+          "name": "胖次",
           "pic": "http://image.x-sir.com/app/shopping/1446017713072.jpg",
           "is_deleted": "0"
         },
         {
           "p_catalog_id": "63",
           "parent_id": "57",
-          "name": "\u5357\u74dc\u88e4",
+          "name": "南瓜裤",
           "pic": "http://image.x-sir.com/app/shopping/1446017725424.jpg",
           "is_deleted": "0"
         },
         {
           "p_catalog_id": "88",
           "parent_id": "57",
-          "name": "\u65e5\u5e38",
+          "name": "日常",
           "pic": "http://image.x-sir.com/app/shopping/1446017744373.jpg",
           "is_deleted": "0"
         }
@@ -60,9 +60,9 @@
           "p_catalog_id": "88",
           "supplier_type": "2",
           "supplier_code": "1101037",
-          "name": "\u3010\u753b\u5f71\u3011\u5c0f\u72d0\u72f8\u77ed\u88d9",
+          "name": "【画影】小狐狸短裙",
           "cover_price": "98.00",
-          "brief": "\u7ea2\u9ed1\u77ed\u88d9\u662f\u73b0\u8d27\u54e6~",
+          "brief": "红黑短裙是现货哦~",
           "figure": "http://image.x-sir.com/app/shopping/1466759853976.jpg",
           "sell_time_start": "1464019200",
           "sell_time_end": "1464624000"
@@ -74,9 +74,9 @@
           "p_catalog_id": "88",
           "supplier_type": "2",
           "supplier_code": "802004",
-          "name": "\u3010\u6d41\u70df\u6614\u6ce0\u3011\u6c49\u5143\u7d20 \u534a\u81c2 \u77ed\u5b8b\u88e4 \u540a\u5e26 \u523a\u7ee3 \u8c46\u853b\u5e74\u534e\u5c11\u5973\u7cfb\u5217-\u6e05\u79cb\u5154 \u77ed\u5b8b\u88e4",
+          "name": "【流烟昔泠】汉元素 半臂 短宋裤 吊带 刺绣 豆蔻年华少女系列-清秋兔 短宋裤",
           "cover_price": "99.00",
-          "brief": "7\u670815\u65e5\u8d77\u8fdb\u5165\u7b2c\u56db\u6279\u9884\u5b9a\uff0c\u7b2c\u56db\u6279\u7ea67\u670831\u65e5\u5de6\u53f3\u53d1\u8d27",
+          "brief": "7月15日起进入第四批预定，第四批约7月31日左右发货",
           "figure": "http://image.x-sir.com/app/shopping/1465296453463.jpg",
           "sell_time_start": "1465228800",
           "sell_time_end": "1465833600"
@@ -88,9 +88,9 @@
           "p_catalog_id": "59",
           "supplier_type": "1",
           "supplier_code": "1101015",
-          "name": "\u3010\u6e38\u9e64\u5de5\u4f5c\u5ba4\u3011\u95f2\u68a6\u6c84\u6c84\u4e0b\u88d9\u523a\u7ee3\u767d\u9e7f\uff08\u77ed\u6b3e\uff09- \u85cf\u9752",
+          "name": "【游鹤工作室】闲梦沄沄下裙刺绣白鹿（短款）- 藏青",
           "cover_price": "110.60",
-          "brief": "\u73b0\u8d27 ",
+          "brief": "现货 ",
           "figure": "http://image.x-sir.com/app/shopping/1444883979497.jpg",
           "sell_time_start": "1444838400",
           "sell_time_end": "1445443200"
@@ -102,7 +102,7 @@
           "p_catalog_id": "88",
           "supplier_type": "2",
           "supplier_code": "2101001",
-          "name": "\u3010\u53e4\u602a\u820d\u3011\u539f\u521b\u8bbe\u8ba1 \u767e\u9b3c\u591c\u884c-\u51a5\u5e9c\u9b54\u9053\u548c\u98ce\u77ed\u88e4 \u65e5\u5f0f\u68c9\u9ebb\u9614\u817f\u88e4A70",
+          "name": "【古怪舍】原创设计 百鬼夜行-冥府魔道和风短裤 日式棉麻阔腿裤A70",
           "cover_price": "89.00",
           "brief": "",
           "figure": "http://image.x-sir.com/app/shopping/1462352934101.jpg",
@@ -116,9 +116,9 @@
           "p_catalog_id": "88",
           "supplier_type": "2",
           "supplier_code": "2101001",
-          "name": "\u3010\u53e4\u602a\u820d\u3011\u539f\u521b \u65e5\u672c\u548c\u98ce\u670d\u9970-\u548c\u3002\u6247 \u68c9\u9ebb\u5370\u82b1\u77ed\u88e4 \u5973\u88c5\u9614\u817f\u88e4 A11",
+          "name": "【古怪舍】原创 日本和风服饰-和。扇 棉麻印花短裤 女装阔腿裤 A11",
           "cover_price": "78.00",
-          "brief": "\u9884\u552e\u622a\u6b62\u52302\u53f7\u53d1\u8d27\u54e6~\r\n\u9884\u552e\u622a\u6b62\u52302\u53f7\u53d1\u8d27\u54e6~\r\n\u9884\u552e\u622a\u6b62\u52302\u53f7\u53d1\u8d27\u54e6~",
+          "brief": "预售截止到2号发货哦~\r\n预售截止到2号发货哦~\r\n预售截止到2号发货哦~",
           "figure": "http://image.x-sir.com/app/shopping/1459135580746.jpg",
           "sell_time_start": "1459094400",
           "sell_time_end": "1459699200"
@@ -130,7 +130,7 @@
           "p_catalog_id": "88",
           "supplier_type": "2",
           "supplier_code": "2101001",
-          "name": "\u3010\u53e4\u602a\u820d\u3011\u5b9a\u5236\u6b3e \u6b27\u5f0f\u590d\u53e4\u6b4c\u7279\u98ce\u7cfb\u5e26\u9ad8\u8170\u77ed\u88d9 \u534a\u8eab\u88d9\u5b50 \u4f1e\u88d9 A52",
+          "name": "【古怪舍】定制款 欧式复古歌特风系带高腰短裙 半身裙子 伞裙 A52",
           "cover_price": "79.00",
           "brief": "",
           "figure": "http://image.x-sir.com/app/shopping/1452653909042.jpg",

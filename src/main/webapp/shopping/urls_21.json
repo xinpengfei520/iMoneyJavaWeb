@@ -1,6 +1,6 @@
 {
   "code": 200,
-  "msg": "\u8bf7\u6c42\u6210\u529f",
+  "msg": "请求成功",
   "result": {
     "page_data": [
       {
@@ -8,10 +8,10 @@
         "channel_id": "8",
         "brand_id": "284",
         "p_catalog_id": "109",
-        "name": "\u9884\u552e\u3010\u4e91\u843d\u79cb\u6c60\u3011 \u590f\u5b63 \u6c49\u5143\u7d20 \u5973 \u7ee3\u82b1\u5957\u88c5 \u540a\u5e26  \u77ed\u9a6c\u9762-\u98ce\u8377\u4e3e-\u4e0a\u8863",
+        "name": "预售【云落秋池】 夏季 汉元素 女 绣花套装 吊带  短马面-风荷举-上衣",
         "cover_price": "118.00",
         "origin_price": "168.00",
-        "brief": "\u5168\u6b3e\u9884\u552e\uff01\uff01\u5168\u6b3e\u9884\u552e\uff01\u7b2c\u56db\u62798\u670831\u4e4b\u524d\u53d1\u8d27\uff01\uff01",
+        "brief": "全款预售！！全款预售！第四批8月31之前发货！！",
         "figure": "http://image.x-sir.com/app/shopping/1467020417275.jpg"
       },
       {
@@ -19,10 +19,10 @@
         "channel_id": "8",
         "brand_id": "284",
         "p_catalog_id": "109",
-        "name": "\u9884\u552e\u3010\u4e91\u843d\u79cb\u6c60\u3011 \u590f\u5b63 \u6c49\u5143\u7d20 \u5973 \u7ee3\u82b1\u5957\u88c5 \u540a\u5e26 \u77ed\u9a6c\u9762-\u98ce\u8377\u4e3e-\u540a\u5e26",
+        "name": "预售【云落秋池】 夏季 汉元素 女 绣花套装 吊带 短马面-风荷举-吊带",
         "cover_price": "69.00",
         "origin_price": "88.00",
-        "brief": "\u5168\u6b3e\u9884\u552e\uff01\uff01\u5168\u6b3e\u9884\u552e\uff01\u7b2c\u56db\u62798\u670831\u4e4b\u524d\u53d1\u8d27\uff01\uff01",
+        "brief": "全款预售！！全款预售！第四批8月31之前发货！！",
         "figure": "http://image.x-sir.com/app/shopping/1467022078102.jpg"
       },
       {
@@ -30,10 +30,10 @@
         "channel_id": "8",
         "brand_id": "284",
         "p_catalog_id": "110",
-        "name": "\u9884\u552e\u3010\u4e91\u843d\u79cb\u6c60\u3011 \u590f\u5b63 \u6c49\u5143\u7d20 \u5973 \u7ee3\u82b1\u5957\u88c5 \u540a\u5e26 \u77ed\u9a6c\u9762-\u98ce\u8377\u4e3e-\u4e0b\u88d9",
+        "name": "预售【云落秋池】 夏季 汉元素 女 绣花套装 吊带 短马面-风荷举-下裙",
         "cover_price": "128.00",
         "origin_price": "138.00",
-        "brief": "\u5168\u6b3e\u9884\u552e\uff01\uff01\u5168\u6b3e\u9884\u552e\uff01\u7b2c\u56db\u62798\u670831\u4e4b\u524d\u53d1\u8d27\uff01\uff01",
+        "brief": "全款预售！！全款预售！第四批8月31之前发货！！",
         "figure": "http://image.x-sir.com/app/shopping/1467021902965.jpg"
       },
       {
@@ -41,7 +41,7 @@
         "channel_id": "15",
         "brand_id": "284",
         "p_catalog_id": "82",
-        "name": "\u3010\u4e91\u843d\u79cb\u6c60\u3011 \u5154\u82cf\u82cf\u7cfb\u5217--\u5305\u5305",
+        "name": "【云落秋池】 兔苏苏系列--包包",
         "cover_price": "68.00",
         "origin_price": "88.00",
         "brief": "",
@@ -52,10 +52,10 @@
         "channel_id": "8",
         "brand_id": "284",
         "p_catalog_id": "110",
-        "name": "\u9884\u552e \u3010\u4e91\u843d\u79cb\u6c60\u3011\u4f20\u7edf\u65e5\u5e38\u6539\u826f \u6c49\u670d \u8fde\u8863\u88d9\u80cc\u5e26\u88d9\u5957\u88c5-\u5317\u6d77\u5317--\u80cc\u5e26\u88d9",
+        "name": "预售 【云落秋池】传统日常改良 汉服 连衣裙背带裙套装-北海北--背带裙",
         "cover_price": "208.00",
         "origin_price": "208.00",
-        "brief": "\u5168\u6b3e\u9884\u552e~~11\u6708\u4e0a\u65ec\u53d1\u8d27~\u8bf7\u4eb2\u4eec\u8010\u5fc3\u7b49\u5f85\u54df~",
+        "brief": "全款预售~~11月上旬发货~请亲们耐心等待哟~",
         "figure": "http://image.x-sir.com/app/shopping/1476153159455.jpg"
       },
       {
@@ -63,7 +63,7 @@
         "channel_id": "15",
         "brand_id": "284",
         "p_catalog_id": "65",
-        "name": "\u3010\u4e91\u843d\u79cb\u6c60\u3011 \u5154\u82cf\u82cf\u7cfb\u5217--\u7f8a\u6bdb\u6597\u7bf7",
+        "name": "【云落秋池】 兔苏苏系列--羊毛斗篷",
         "cover_price": "468.00",
         "origin_price": "538.00",
         "brief": "",
@@ -74,10 +74,10 @@
         "channel_id": "8",
         "brand_id": "284",
         "p_catalog_id": "109",
-        "name": "\u9884\u552e \u3010\u4e91\u843d\u79cb\u6c60\u3011\u4f20\u7edf\u65e5\u5e38\u6539\u826f \u6c49\u670d \u8fde\u8863\u88d9\u80cc\u5e26\u88d9\u5957\u88c5-\u5317\u6d77\u5317--\u4e0a\u8863",
+        "name": "预售 【云落秋池】传统日常改良 汉服 连衣裙背带裙套装-北海北--上衣",
         "cover_price": "136.00",
         "origin_price": "136.00",
-        "brief": "\u5168\u6b3e\u9884\u552e~~11\u6708\u4e0a\u65ec\u53d1\u8d27~\u8bf7\u4eb2\u4eec\u8010\u5fc3\u7b49\u5f85\u54df~",
+        "brief": "全款预售~~11月上旬发货~请亲们耐心等待哟~",
         "figure": "http://image.x-sir.com/app/shopping/1476152885831.jpg"
       },
       {
@@ -85,7 +85,7 @@
         "channel_id": "15",
         "brand_id": "284",
         "p_catalog_id": "71",
-        "name": "\u3010\u4e91\u843d\u79cb\u6c60\u3011 \u6c49\u5143\u7d20 \u65f6\u88c5 \u51ac \u539a\u7acb\u9886\u8884\u5b50 \u7389\u5bb9--\u5c0f\u8033\u6735\u53d1\u5e26",
+        "name": "【云落秋池】 汉元素 时装 冬 厚立领袄子 玉容--小耳朵发带",
         "cover_price": "12.00",
         "origin_price": "36.00",
         "brief": "",
@@ -96,7 +96,7 @@
         "channel_id": "15",
         "brand_id": "284",
         "p_catalog_id": "88",
-        "name": "\u3010\u4e91\u843d\u79cb\u6c60\u3011 \u5154\u82cf\u82cf\u7cfb\u5217--\u4e00\u7247\u5f0f\u84dd\u77ed\u88d9",
+        "name": "【云落秋池】 兔苏苏系列--一片式蓝短裙",
         "cover_price": "128.00",
         "origin_price": "168.00",
         "brief": "",
@@ -107,7 +107,7 @@
         "channel_id": "15",
         "brand_id": "284",
         "p_catalog_id": "52",
-        "name": "\u3010\u4e91\u843d\u79cb\u6c60\u3011 \u6c49\u5143\u7d20 \u65f6\u88c5 \u51ac \u539a\u7acb\u9886\u8884\u5b50 \u7389\u5bb9--\u7f8a\u7ed2\u6bd4\u7532",
+        "name": "【云落秋池】 汉元素 时装 冬 厚立领袄子 玉容--羊绒比甲",
         "cover_price": "568.00",
         "origin_price": "638.00",
         "brief": "",
@@ -118,7 +118,7 @@
         "channel_id": "15",
         "brand_id": "284",
         "p_catalog_id": "71",
-        "name": "\u3010\u4e91\u843d\u79cb\u6c60\u3011 \u5154\u82cf\u82cf\u7cfb\u5217--\u5047\u9886",
+        "name": "【云落秋池】 兔苏苏系列--假领",
         "cover_price": "68.00",
         "origin_price": "88.00",
         "brief": "",

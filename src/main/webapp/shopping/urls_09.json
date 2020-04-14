@@ -1,6 +1,6 @@
 {
   "code": 200,
-  "msg": "\u8bf7\u6c42\u6210\u529f",
+  "msg": "请求成功",
   "result": {
     "page_data": [
       {
@@ -8,10 +8,10 @@
         "channel_id": "6",
         "brand_id": "215",
         "p_catalog_id": "59",
-        "name": "\u3010\u6e38\u9e64\u5de5\u4f5c\u5ba4\u3011\u95f2\u68a6\u6c84\u6c84\u4e0b\u88d9\u523a\u7ee3\u767d\u9e7f\uff08\u77ed\u6b3e\uff09- \u85cf\u9752",
+        "name": "【游鹤工作室】闲梦沄沄下裙刺绣白鹿（短款）- 藏青",
         "cover_price": "110.60",
         "origin_price": "158.00",
-        "brief": "\u73b0\u8d27 ",
+        "brief": "现货 ",
         "figure": "http://image.x-sir.com/app/shopping/1444883979497.jpg"
       },
       {
@@ -19,10 +19,10 @@
         "channel_id": "4",
         "brand_id": "3",
         "p_catalog_id": "90",
-        "name": "[\u781a\u6c60\u5de5\u4f5c\u5ba4]\u5251\u4e09\u5468\u8fb9\u95e8\u6d3e\u53e4\u98ce\u539f\u521b\u72ec\u5bb6\u624b\u5de5\u5b9a\u5236\u53d1\u5149\u5c0f\u591c\u706f",
+        "name": "[砚池工作室]剑三周边门派古风原创独家手工定制发光小夜灯",
         "cover_price": "68.00",
         "origin_price": "68.00",
-        "brief": "\u4e0d\u5305\u542b\u63d0\u624b~\u4e0d\u5305\u542b\u63d0\u624b~\u4e0d\u5305\u542b\u63d0\u624b~OVO \u91cd\u8981\u7684si\u60c5\u55e6\u4e09\u904d~~~ \u5de5\u671f\u4e3a5-10\u4e2a\u5de5\u4f5c\u65e5~\r\n",
+        "brief": "不包含提手~不包含提手~不包含提手~OVO 重要的si情嗦三遍~~~ 工期为5-10个工作日~\r\n",
         "figure": "http://image.x-sir.com/app/shopping/1449219464141.jpg"
       },
       {
@@ -30,7 +30,7 @@
         "channel_id": "4",
         "brand_id": "3",
         "p_catalog_id": "26",
-        "name": "[\u781a\u6c60\u5de5\u4f5c\u5ba4] \u5251\u7f513 \u5251\u4e09\u5468\u8fb9\u95e8\u6d3e\u53e4\u98ce\u539f\u521b\u72ec\u5bb6\u624b\u5de5\u5b9a\u5236\u793c\u7269\u6728\u8d28\u5361\u5957",
+        "name": "[砚池工作室] 剑网3 剑三周边门派古风原创独家手工定制礼物木质卡套",
         "cover_price": "26.40",
         "origin_price": "30.00",
         "brief": "",
@@ -41,10 +41,10 @@
         "channel_id": "4",
         "brand_id": "3",
         "p_catalog_id": "90",
-        "name": "[\u781a\u6c60\u5de5\u4f5c\u5ba4] \u5251\u7f513 \u5251\u4e09\u5468\u8fb9\u95e8\u6d3e\u539f\u521b\u8bbe\u8ba1\u53ef\u8c03\u5149\u5145\u7535\u53f0\u706f\u3010\u4e4c\u591c\u557c\u3011",
+        "name": "[砚池工作室] 剑网3 剑三周边门派原创设计可调光充电台灯【乌夜啼】",
         "cover_price": "202.40",
         "origin_price": "230.00",
-        "brief": "\u6b64\u4e3a\u4e0b\u5355\u5b9a\u5236\u3002\u5de5\u671f7-10\u5929\u3002\u7531\u781a\u6c60\u53d1\u8d27\u3002\u975e\u8d28\u91cf\u95ee\u9898\u4e0b\u5355\u4e0d\u4f5c\u9000\u6362\u3002",
+        "brief": "此为下单定制。工期7-10天。由砚池发货。非质量问题下单不作退换。",
         "figure": "http://image.x-sir.com/app/shopping/1474971558864.jpg"
       },
       {
@@ -52,7 +52,7 @@
         "channel_id": "4",
         "brand_id": "3",
         "p_catalog_id": "26",
-        "name": "[\u781a\u6c60\u5de5\u4f5c\u5ba4] \u5251\u7f513 \u5251\u4e09\u5468\u8fb9\u95e8\u6d3e\u53e4\u98ce\u539f\u521b\u72ec\u5bb6\u793c\u7269 \u95e8\u6d3e\u884d\u751f\u91d1\u5c5e\u4e66\u7b7e",
+        "name": "[砚池工作室] 剑网3 剑三周边门派古风原创独家礼物 门派衍生金属书签",
         "cover_price": "13.20",
         "origin_price": "15.00",
         "brief": "",
@@ -63,7 +63,7 @@
         "channel_id": "4",
         "brand_id": "3",
         "p_catalog_id": "90",
-        "name": "[\u781a\u6c60\u5de5\u4f5c\u5ba4]  \u5251\u7f513 \u5251\u4e09\u5468\u8fb9\u95e8\u6d3e\u53e4\u98ce\u539f\u521b\u72ec\u5bb6\u5b9a\u5236\u793c\u7269\u50a8\u84c4\u7f50\u6536\u7eb3\u76d2",
+        "name": "[砚池工作室]  剑网3 剑三周边门派古风原创独家定制礼物储蓄罐收纳盒",
         "cover_price": "80.96",
         "origin_price": "92.00",
         "brief": "",
@@ -74,7 +74,7 @@
         "channel_id": "8",
         "brand_id": "5",
         "p_catalog_id": "52",
-        "name": "\u3010\u6e38\u9e64\u5de5\u4f5c\u5ba4\u3011\u767e\u642d\u767d\u886c\u886b lo\u88c5\u767e\u642d \u65e5\u5e38\u767e\u642d",
+        "name": "【游鹤工作室】百搭白衬衫 lo装百搭 日常百搭",
         "cover_price": "168.00",
         "origin_price": "188.00",
         "brief": "",
@@ -85,7 +85,7 @@
         "channel_id": "4",
         "brand_id": "274",
         "p_catalog_id": "41",
-        "name": "\u3010\u781a\u6c60\u5de5\u4f5c\u5ba4\u3011\u5251\u7f51\u4e09 \u52513\u540c\u4eba\u5168\u95e8\u6d3e\u884d\u751flogo\u5468\u8fb9 \u91d1\u5c5e\u624b\u673a\u8d34\u3010\u94f6\u8272\u3011",
+        "name": "【砚池工作室】剑网三 剑3同人全门派衍生logo周边 金属手机贴【银色】",
         "cover_price": "30.00",
         "origin_price": "30.00",
         "brief": "",
@@ -96,7 +96,7 @@
         "channel_id": "6",
         "brand_id": "3",
         "p_catalog_id": "90",
-        "name": "[\u781a\u6c60\u5de5\u4f5c\u5ba4]  \u5251\u7f513 \u5251\u4e09\u5468\u8fb9\u95e8\u6d3e\u53e4\u98ce\u539f\u521b\u72ec\u5bb6\u5b9a\u5236\u793c\u7269 \u968f\u8eab\u955c\u5316\u5986\u955c\u3010\u4eff\u94dc\u6b3e\u3011",
+        "name": "[砚池工作室]  剑网3 剑三周边门派古风原创独家定制礼物 随身镜化妆镜【仿铜款】",
         "cover_price": "33.44",
         "origin_price": "38.00",
         "brief": "",
@@ -107,10 +107,10 @@
         "channel_id": "4",
         "brand_id": "3",
         "p_catalog_id": "90",
-        "name": "[\u781a\u6c60\u5de5\u4f5c\u5ba4]  \u5251\u7f513 \u5468\u8fb9\u539f\u521b\u8bbe\u8ba1 \u95e8\u6d3e\u6821\u670d\u884d\u751f\u5ba0\u7269\u670d\u3010\u72f8\u5974\u3011",
+        "name": "[砚池工作室]  剑网3 周边原创设计 门派校服衍生宠物服【狸奴】",
         "cover_price": "83.60",
         "origin_price": "95.00",
-        "brief": "\u5236\u4f5c\u5de5\u671f\u970015\u5929\uff0c\u5236\u4f5c\u5b8c\u6210\u540e\u53d1\u8d27~~",
+        "brief": "制作工期需15天，制作完成后发货~~",
         "figure": "http://image.x-sir.com/app/shopping/1461121218550.jpg"
       }
     ],

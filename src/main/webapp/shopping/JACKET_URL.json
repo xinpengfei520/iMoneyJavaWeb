@@ -1,39 +1,39 @@
 {
   "code": 200,
-  "msg": "\u8bf7\u6c42\u6210\u529f",
+  "msg": "请求成功",
   "result": [
     {
       "p_catalog_id": "51",
       "parent_id": "0",
-      "name": "\u4e0a\u8863",
+      "name": "上衣",
       "pic": "",
       "is_deleted": "0",
       "child": [
         {
           "p_catalog_id": "52",
           "parent_id": "51",
-          "name": "\u65e5\u5e38",
+          "name": "日常",
           "pic": "http://image.x-sir.com/app/shopping/1446017524434.jpg",
           "is_deleted": "0"
         },
         {
           "p_catalog_id": "96",
           "parent_id": "51",
-          "name": "\u6cf3\u8863",
+          "name": "泳衣",
           "pic": "http://image.x-sir.com/app/shopping/1449216802403.jpg",
           "is_deleted": "0"
         },
         {
           "p_catalog_id": "109",
           "parent_id": "51",
-          "name": "\u6c49\u98ce",
+          "name": "汉风",
           "pic": "http://image.x-sir.com/app/shopping/1465383063303.jpg",
           "is_deleted": "0"
         },
         {
           "p_catalog_id": "117",
           "parent_id": "51",
-          "name": "\u53e4\u98ce",
+          "name": "古风",
           "pic": "",
           "is_deleted": "0"
         },
@@ -47,7 +47,7 @@
         {
           "p_catalog_id": "56",
           "parent_id": "51",
-          "name": "\u521b\u610fT\u6064",
+          "name": "创意T恤",
           "pic": "http://image.x-sir.com/app/shopping/1446017583897.jpg",
           "is_deleted": "0"
         }
@@ -60,7 +60,7 @@
           "p_catalog_id": "52",
           "supplier_type": "1",
           "supplier_code": "1101001",
-          "name": "\u5251\u4e09T\u6064\u6279\u53d1",
+          "name": "剑三T恤批发",
           "cover_price": "32.00",
           "brief": "",
           "figure": "http://image.x-sir.com/app/shopping/1439367400560.jpg",
@@ -74,9 +74,9 @@
           "p_catalog_id": "52",
           "supplier_type": "2",
           "supplier_code": "802004",
-          "name": "\u3010\u6d41\u70df\u6614\u6ce0\u3011\u6c49\u5143\u7d20 \u534a\u81c2 \u77ed\u5b8b\u88e4 \u540a\u5e26 \u523a\u7ee3 \u8c46\u853b\u5e74\u534e\u5c11\u5973\u7cfb\u5217-\u6e05\u79cb\u5154 \u534a\u81c2",
+          "name": "【流烟昔泠】汉元素 半臂 短宋裤 吊带 刺绣 豆蔻年华少女系列-清秋兔 半臂",
           "cover_price": "99.00",
-          "brief": "7\u670815\u65e5\u8d77\u8fdb\u5165\u7b2c\u56db\u6279\u9884\u5b9a\uff0c\u7b2c\u56db\u6279\u7ea67\u670831\u65e5\u5de6\u53f3\u53d1\u8d27",
+          "brief": "7月15日起进入第四批预定，第四批约7月31日左右发货",
           "figure": "http://image.x-sir.com/app/shopping/1465295954097.jpg",
           "sell_time_start": "1465228800",
           "sell_time_end": "1465833600"
@@ -88,9 +88,9 @@
           "p_catalog_id": "52",
           "supplier_type": "2",
           "supplier_code": "802004",
-          "name": "\u3010\u6d41\u70df\u6614\u6ce0\u3011\u6c49\u5143\u7d20 \u534a\u81c2 \u77ed\u5b8b\u88e4 \u540a\u5e26 \u523a\u7ee3 \u8c46\u853b\u5e74\u534e\u5c11\u5973\u7cfb\u5217-\u6e05\u79cb\u5154 \u540a\u5e26",
+          "name": "【流烟昔泠】汉元素 半臂 短宋裤 吊带 刺绣 豆蔻年华少女系列-清秋兔 吊带",
           "cover_price": "59.00",
-          "brief": "7\u670815\u65e5\u8d77\u8fdb\u5165\u7b2c\u56db\u6279\u9884\u5b9a\uff0c\u7b2c\u56db\u6279\u7ea67\u670831\u65e5\u5de6\u53f3\u53d1\u8d27",
+          "brief": "7月15日起进入第四批预定，第四批约7月31日左右发货",
           "figure": "http://image.x-sir.com/app/shopping/1465296158907.jpg",
           "sell_time_start": "1465228800",
           "sell_time_end": "1465833600"
@@ -102,7 +102,7 @@
           "p_catalog_id": "56",
           "supplier_type": "2",
           "supplier_code": "1201001",
-          "name": "\u3010\u6f2b\u8e2a\u3011 \u539f\u521b\u53ef\u7231\u840c\u732b\u54aa\u5927\u4eba \u7acb\u4f53\u732b\u5c3eT\u6064 \u857e\u4e1d\u82b1\u8fb9\u5973",
+          "name": "【漫踪】 原创可爱萌猫咪大人 立体猫尾T恤 蕾丝花边女",
           "cover_price": "79.00",
           "brief": "",
           "figure": "http://image.x-sir.com/app/shopping/1461571069605.jpg",
@@ -116,9 +116,9 @@
           "p_catalog_id": "52",
           "supplier_type": "2",
           "supplier_code": "1201001",
-          "name": "\u3010\u6f2b\u8e2a\u3011\u5bab\u5d0e\u9a8f \u9f99\u732b\u5957\u88c5 \u5973\u51ac \u5e3d\u5b50\u886c\u886b\u80cc\u5fc3\u6253\u5e95\u88e4\u77ed\u88e4",
+          "name": "【漫踪】宫崎骏 龙猫套装 女冬 帽子衬衫背心打底裤短裤",
           "cover_price": "105.00",
-          "brief": "\u80cc\u5fc3\u4e0a\u5c0f\u6302\u4ef6\u8d60\u5b8c\u5373\u6b62\u54e6\n",
+          "brief": "背心上小挂件赠完即止哦\n",
           "figure": "http://image.x-sir.com/app/shopping/1451012249243.jpg",
           "sell_time_start": "1450972800",
           "sell_time_end": "1451577600"
@@ -130,7 +130,7 @@
           "p_catalog_id": "56",
           "supplier_type": "2",
           "supplier_code": "2101001",
-          "name": "\u3010\u53e4\u602a\u820d\u3011\u539f\u521b\u8bbe\u8ba1 \u6076\u7075\u9000\u6563\u7eaf\u68c9\u4e03\u5206\u8896T\u6064 \u79cb\u5b63\u65e5\u7cfb\u539f\u5bbf\u7537\u5973\u88c5A21",
+          "name": "【古怪舍】原创设计 恶灵退散纯棉七分袖T恤 秋季日系原宿男女装A21",
           "cover_price": "63.00",
           "brief": "",
           "figure": "http://image.x-sir.com/app/shopping/1464245798979.jpg",

@@ -1,6 +1,6 @@
 {
   "code": 200,
-  "msg": "\u8bf7\u6c42\u6210\u529f",
+  "msg": "请求成功",
   "result": {
     "page_data": [
       {
@@ -8,10 +8,10 @@
         "channel_id": "3",
         "brand_id": "291",
         "p_catalog_id": "81",
-        "name": "\u3010\u957f\u8349\u989c\u6587\u5b57\u3011 \u7092\u9e21\u840c\u840c\u54d2\u6bdb\u6bef",
+        "name": "【长草颜文字】 炒鸡萌萌哒毛毯",
         "cover_price": "37.24",
         "origin_price": "49.00",
-        "brief": "\u2605\u2605\u4e13\u4e3a\u559c\u6b22\u840c\u6587\u5316\u7684\u5c0f\u4f19\u4f34\u521b\u4f5c\u7684\u5468\u8fb9\u4ea7\u7269\u2605\u2605\u5377\u8d77\u6765\u662f\u8ff7\u4f60\u516c\u4ed4\u6446\u9970\uff0c\u5c55\u5f00\u5c31\u662f\u5b9e\u7528\u5c0f\u6bdb\u6bef\u2605\u2605\u4f18\u9009\u6cd5\u5170\u7ed2\u9762\u6599\u4f7f\u4ea7\u54c1\u5728\u4f7f\u7528\u8fc7\u7a0b\u4e2d\u66f4\u52a0\u5b89\u5168\u8212\u9002\u2605\u2605\u53c8\u840c\u53c8\u597d\u73a9\u8fd8\u5728\u7b49\u4ec0\u4e48\uff0c\u6293\u7d27\u62b1\u56de\u5bb6\u5462\uff01\n",
+        "brief": "★★专为喜欢萌文化的小伙伴创作的周边产物★★卷起来是迷你公仔摆饰，展开就是实用小毛毯★★优选法兰绒面料使产品在使用过程中更加安全舒适★★又萌又好玩还在等什么，抓紧抱回家呢！\n",
         "figure": "http://image.x-sir.com/app/shopping/1452570260015.jpg"
       },
       {
@@ -19,10 +19,10 @@
         "channel_id": "3",
         "brand_id": "291",
         "p_catalog_id": "22",
-        "name": "\u3010\u957f\u8349\u989c\u6587\u5b57\u3011 \u840c\u7cfb\u751c\u751c\u5708u\u578b\u6795 \u3010\u5403\u8d27\u62b1\u6795\u3011",
+        "name": "【长草颜文字】 萌系甜甜圈u型枕 【吃货抱枕】",
         "cover_price": "49.00",
         "origin_price": "98.00",
-        "brief": "\u751c\u751c\u5708U\u578b\u9888\u6795\uff0c\u5348\u4f11\u5fc5\u5907\u54e6\uff01\u2605\u2605\u2605_______ \u840c\u840c\u54d2\u7684\u9020\u578b\uff0c\u5356\u840c\u5c0f\u56e2\u5b50\u7684\u4f4d\u7f6e\u9002\u5408\u9760\u7740\uff0c\r\n\u8ba9\u5348\u4f11\u66f4\u8212\u9002\u2605\u2605\u2605_______ \u9009\u7528\u4f18\u8d28\u6c34\u6676\u77ed\u6bdb\u7ed2\u6750\u8d28\uff0c\u8fdb\u53e3\u586b\u5145PP\u68c9\uff0c\r\n\u662f\u5927\u591a\u6570\u957f\u8349\u5bb6\u5c0f\u5929\u4f7f\u7684\u631a\u7231\u54e6 \u2605\u2605\u2605_______ \u591a\u79cd\u7528\u9014\uff0c\u9760\u7740\u3001\u8db4\u7740\u3001\u57ab\u7740\u9002\u5408\u5404\u79cd\u59ff\u52bf\uff0c\u7528\u9014\u591a\u591a~\r\n",
+        "brief": "甜甜圈U型颈枕，午休必备哦！★★★_______ 萌萌哒的造型，卖萌小团子的位置适合靠着，\r\n让午休更舒适★★★_______ 选用优质水晶短毛绒材质，进口填充PP棉，\r\n是大多数长草家小天使的挚爱哦 ★★★_______ 多种用途，靠着、趴着、垫着适合各种姿势，用途多多~\r\n",
         "figure": "http://image.x-sir.com/app/shopping/1452570654212.jpg"
       },
       {
@@ -30,10 +30,10 @@
         "channel_id": "3",
         "brand_id": "291",
         "p_catalog_id": "77",
-        "name": "\u3010\u957f\u8349\u989c\u6587\u5b57\u3011\u65e9\u9910\u7cfb\u5217\u96f6\u94b1\u5305-\u9762\u5305",
+        "name": "【长草颜文字】早餐系列零钱包-面包",
         "cover_price": "26.50",
         "origin_price": "53.00",
-        "brief": "\u840c\u840c\u624e\u96f6\u94b1\u5305\u3002\u8377\u5305\u86cb*\u725b\u5976*\u9762\u5305 \u65e9\u9910\u7cfb\u5217\u4e00\u6837\u90fd\u4e0d\u80fd\u5c11 \u2605\u2605\u96f6\u94b1\u3001\u94a5\u5319\u3001\u94f6\u884c\u5361\u5404\u79cd\u5361\uff0c\u4e00\u4e2a\u5305\u5305\u5c31\u53ef\u4ee5\u5e2e\u4f60\u515c\u7740\u8d70\u2605\u2605\u6302\u7ef3\u7684\u8bbe\u8ba1\u66f4\u65b9\u4fbf\u643a\u5e26\uff0c\u840c\u59b9\u5b50\u5fc5\u5907\u54e6~\n",
+        "brief": "萌萌扎零钱包。荷包蛋*牛奶*面包 早餐系列一样都不能少 ★★零钱、钥匙、银行卡各种卡，一个包包就可以帮你兜着走★★挂绳的设计更方便携带，萌妹子必备哦~\n",
         "figure": "http://image.x-sir.com/app/shopping/1452572108331.jpg"
       },
       {
@@ -41,10 +41,10 @@
         "channel_id": "3",
         "brand_id": "291",
         "p_catalog_id": "22",
-        "name": "\u3010\u957f\u8349\u989c\u6587\u5b57\u3011 \u989c\u8868\u60c5\u5403\u8d27\u7cfb\u5217\u62b1\u6795-\u9762\u5305",
+        "name": "【长草颜文字】 颜表情吃货系列抱枕-面包",
         "cover_price": "69.00",
         "origin_price": "138.00",
-        "brief": "O(\u2229_\u2229)O\u840c\u840c\u54d2\u957f\u8349\u989c\u6587\u5b57\u5403\u8d27\u7cfb\u5217\u62b1\u6795\uff0c\u5feb\u6765\u9886\u56de\u5bb6\u3002\u2605\u2605\u53ef\u53e3\u9762\u5305\u2605\u2605\u9999\u55b7\u706b\u817f\u2605\u2605\u8425\u517b\u714e\u86cb\u2605\u2605\u9999\u751c\u51b0\u6dc7\u6dcb\u2605\u2605\u6709\u56db\u79cd\u7f8e\u98df\u53ef\u9009\u54e6\uff0c\u767d\u4e91\u4e00\u6837\u7684\u67d4\u8f6f\uff0c\u53ef\u7231\u7684\u5c0f\u8868\u60c5\uff0c\u5356\u840c\u53c8\u5b9e\u7528\uff0c\u8d76\u5feb\u5e26\u56de\u5bb6\u5427\uff01\r\n",
+        "brief": "O(∩_∩)O萌萌哒长草颜文字吃货系列抱枕，快来领回家。★★可口面包★★香喷火腿★★营养煎蛋★★香甜冰淇淋★★有四种美食可选哦，白云一样的柔软，可爱的小表情，卖萌又实用，赶快带回家吧！\r\n",
         "figure": "http://image.x-sir.com/app/shopping/1452567383085.jpg"
       },
       {
@@ -52,10 +52,10 @@
         "channel_id": "3",
         "brand_id": "291",
         "p_catalog_id": "77",
-        "name": "\u3010\u957f\u8349\u989c\u6587\u5b57\u3011\u65e9\u9910\u7cfb\u5217\u96f6\u94b1\u5305-\u725b\u5976",
+        "name": "【长草颜文字】早餐系列零钱包-牛奶",
         "cover_price": "29.50",
         "origin_price": "59.00",
-        "brief": "\u840c\u840c\u624e\u96f6\u94b1\u5305\u3002\u8377\u5305\u86cb*\u725b\u5976*\u9762\u5305 \u65e9\u9910\u7cfb\u5217\u4e00\u6837\u90fd\u4e0d\u80fd\u5c11 \u2605\u2605\u96f6\u94b1\u3001\u94a5\u5319\u3001\u94f6\u884c\u5361\u5404\u79cd\u5361\uff0c\u4e00\u4e2a\u5305\u5305\u5c31\u53ef\u4ee5\u5e2e\u4f60\u515c\u7740\u8d70\u2605\u2605\u6302\u7ef3\u7684\u8bbe\u8ba1\u66f4\u65b9\u4fbf\u643a\u5e26\uff0c\u840c\u59b9\u5b50\u5fc5\u5907\u54e6~\r\n",
+        "brief": "萌萌扎零钱包。荷包蛋*牛奶*面包 早餐系列一样都不能少 ★★零钱、钥匙、银行卡各种卡，一个包包就可以帮你兜着走★★挂绳的设计更方便携带，萌妹子必备哦~\r\n",
         "figure": "http://image.x-sir.com/app/shopping/1452571821094.jpg"
       },
       {
@@ -63,10 +63,10 @@
         "channel_id": "3",
         "brand_id": "291",
         "p_catalog_id": "77",
-        "name": "\u3010\u957f\u8349\u989c\u6587\u5b57\u3011\u65e9\u9910\u7cfb\u5217\u96f6\u94b1\u5305-\u8377\u5305\u86cb",
+        "name": "【长草颜文字】早餐系列零钱包-荷包蛋",
         "cover_price": "26.50",
         "origin_price": "53.00",
-        "brief": "~\u840c\u840c\u624e\u96f6\u94b1\u5305\u3002\u8377\u5305\u86cb*\u725b\u5976*\u9762\u5305 \u65e9\u9910\u7cfb\u5217\u4e00\u6837\u90fd\u4e0d\u80fd\u5c11 \u2605\u2605\u96f6\u94b1\u3001\u94a5\u5319\u3001\u94f6\u884c\u5361\u5404\u79cd\u5361\uff0c\u4e00\u4e2a\u5305\u5305\u5c31\u53ef\u4ee5\u5e2e\u4f60\u515c\u7740\u8d70\u2605\u2605\u6302\u7ef3\u7684\u8bbe\u8ba1\u66f4\u65b9\u4fbf\u643a\u5e26\uff0c\u840c\u59b9\u5b50\u5fc5\u5907\u54e6~\r\n",
+        "brief": "~萌萌扎零钱包。荷包蛋*牛奶*面包 早餐系列一样都不能少 ★★零钱、钥匙、银行卡各种卡，一个包包就可以帮你兜着走★★挂绳的设计更方便携带，萌妹子必备哦~\r\n",
         "figure": "http://image.x-sir.com/app/shopping/1452571992299.jpg"
       },
       {
@@ -74,10 +74,10 @@
         "channel_id": "3",
         "brand_id": "291",
         "p_catalog_id": "22",
-        "name": "\u3010\u957f\u8349\u989c\u6587\u5b57\u3011 \u989c\u8868\u60c5\u5403\u8d27\u7cfb\u5217\u62b1\u6795-\u714e\u86cb \u3010\u5403\u8d27\u62b1\u6795\u3011",
+        "name": "【长草颜文字】 颜表情吃货系列抱枕-煎蛋 【吃货抱枕】",
         "cover_price": "69.00",
         "origin_price": "138.00",
-        "brief": "O(\u2229_\u2229)O\u840c\u840c\u54d2\u957f\u8349\u989c\u6587\u5b57\u5403\u8d27\u7cfb\u5217\u62b1\u6795\uff0c\u5feb\u6765\u9886\u56de\u5bb6\u3002\u2605\u2605\u53ef\u53e3\u9762\u5305\u2605\u2605\u9999\u55b7\u706b\u817f\u2605\u2605\u8425\u517b\u714e\u86cb\u2605\u2605\u9999\u751c\u51b0\u6dc7\u6dcb\u2605\u2605\u6709\u56db\u79cd\u7f8e\u98df\u53ef\u9009\u54e6\uff0c\u767d\u4e91\u4e00\u6837\u7684\u67d4\u8f6f\uff0c\u53ef\u7231\u7684\u5c0f\u8868\u60c5\uff0c\u5356\u840c\u53c8\u5b9e\u7528\uff0c\u8d76\u5feb\u5e26\u56de\u5bb6\u5427\uff01\r\n",
+        "brief": "O(∩_∩)O萌萌哒长草颜文字吃货系列抱枕，快来领回家。★★可口面包★★香喷火腿★★营养煎蛋★★香甜冰淇淋★★有四种美食可选哦，白云一样的柔软，可爱的小表情，卖萌又实用，赶快带回家吧！\r\n",
         "figure": "http://image.x-sir.com/app/shopping/1452567542960.jpg"
       },
       {
@@ -85,10 +85,10 @@
         "channel_id": "3",
         "brand_id": "291",
         "p_catalog_id": "26",
-        "name": "\u3010\u957f\u8349\u989c\u6587\u5b57\u3011\u539f\u521b\u5c0f\u9ec4\u9e21\u624b\u529e\u6302\u4ef6\u989c\u8868\u60c5\u5495\u5495\u9e21\u52a8\u6f2b\u5468\u8fb9\u6bdb\u7ed2\u6302\u9970",
+        "name": "【长草颜文字】原创小黄鸡手办挂件颜表情咕咕鸡动漫周边毛绒挂饰",
         "cover_price": "39.00",
         "origin_price": "55.00",
-        "brief": "\uff08\u6700\u70ab\u7684\u5c0f\u9e21\u98ce\uff09\u4f31\u662f\u6211\u5929\u8fb9\u671f\u5f85\u7684\u5c0f\u9e21\uff0c\u600e\u4e48\u6ca1\u5c31\u628a\u4f60\u62b1\u56de\u6765~\u5b9d\u8d1d\u9009\u7528\u4f18\u8d28\u6c34\u6676\u77ed\u6bdb\u7ed2\uff0c\u4f18\u8d28\u586b\u5145PP\u68c9\uff0c\u4f7f\u5b9d\u8d1d\u6293\u5728\u624b\u91cc\u6709\u826f\u597d\u7684\u624b\u611f",
+        "brief": "（最炫的小鸡风）伱是我天边期待的小鸡，怎么没就把你抱回来~宝贝选用优质水晶短毛绒，优质填充PP棉，使宝贝抓在手里有良好的手感",
         "figure": "http://image.x-sir.com/app/shopping/1452586743274.jpg"
       },
       {
@@ -96,10 +96,10 @@
         "channel_id": "3",
         "brand_id": "291",
         "p_catalog_id": "29",
-        "name": "\u3010\u957f\u8349\u989c\u6587\u5b57\u3011 \u7334\u5e74\u5409\u7965\u624b\u529e\u516c\u4ed4",
+        "name": "【长草颜文字】 猴年吉祥手办公仔",
         "cover_price": "58.00",
         "origin_price": "139.00",
-        "brief": "\u3010\u65b0\u5e74\u9001\u793c\u7cbe\u9009\u30112016\u7334\u5e74\u5409\u7965\u516c\u4ed4 \u840c\u840c\u7684\u5c0f\u8138\u86cb\u6e29\u6696\u6211\u7684\u5fc3\u7a9d\uff0c\u70b9\u4eae\u5fc3\u4e2d\u7684\u706b\uff0c\u706b\u706b\u706b..\u62b1\u7740\u7231\u4e0d\u91ca\u624b\u2605\u2605_\u53ef\u7231\u7684\u5c0f\u7334\u5b50\u65e2\u662f\u516c\u4ed4\u73a9\u5076\u4e5f\u53ef\u505a\u62b1\u6795\u800c\u4e14\u8f6f\u8f6f\u7684\u662f\u634f\u634f\u65cf\u7684\u631a\u7231\u3002",
+        "brief": "【新年送礼精选】2016猴年吉祥公仔 萌萌的小脸蛋温暖我的心窝，点亮心中的火，火火火..抱着爱不释手★★_可爱的小猴子既是公仔玩偶也可做抱枕而且软软的是捏捏族的挚爱。",
         "figure": "http://image.x-sir.com/app/shopping/1453097472754.jpg"
       },
       {
@@ -107,10 +107,10 @@
         "channel_id": "3",
         "brand_id": "291",
         "p_catalog_id": "22",
-        "name": "\u3010\u957f\u8349\u989c\u6587\u5b57\u3011 \u989c\u8868\u60c5\u5403\u8d27\u7cfb\u5217\u62b1\u6795-\u706b\u817f\u80a0",
+        "name": "【长草颜文字】 颜表情吃货系列抱枕-火腿肠",
         "cover_price": "69.00",
         "origin_price": "138.00",
-        "brief": "O(\u2229_\u2229)O\u840c\u840c\u54d2\u957f\u8349\u989c\u6587\u5b57\u5403\u8d27\u7cfb\u5217\u62b1\u6795\uff0c\u5feb\u6765\u9886\u56de\u5bb6\u3002\u2605\u2605\u53ef\u53e3\u9762\u5305\u2605\u2605\u9999\u55b7\u706b\u817f\u2605\u2605\u8425\u517b\u714e\u86cb\u2605\u2605\u9999\u751c\u51b0\u6dc7\u6dcb\u2605\u2605\u6709\u56db\u79cd\u7f8e\u98df\u53ef\u9009\u54e6\uff0c\u767d\u4e91\u4e00\u6837\u7684\u67d4\u8f6f\uff0c\u53ef\u7231\u7684\u5c0f\u8868\u60c5\uff0c\u5356\u840c\u53c8\u5b9e\u7528\uff0c\u8d76\u5feb\u5e26\u56de\u5bb6\u5427\uff01\r\n",
+        "brief": "O(∩_∩)O萌萌哒长草颜文字吃货系列抱枕，快来领回家。★★可口面包★★香喷火腿★★营养煎蛋★★香甜冰淇淋★★有四种美食可选哦，白云一样的柔软，可爱的小表情，卖萌又实用，赶快带回家吧！\r\n",
         "figure": "http://image.x-sir.com/app/shopping/1452567115263.jpg"
       },
       {
@@ -118,10 +118,10 @@
         "channel_id": "3",
         "brand_id": "291",
         "p_catalog_id": "26",
-        "name": "\u3010\u957f\u8349\u989c\u6587\u5b57\u3011 \u56e2\u5b50\u70b8\u9e21\u5757\u541b\u6bdb\u7ed2\u6302\u9970",
+        "name": "【长草颜文字】 团子炸鸡块君毛绒挂饰",
         "cover_price": "19.80",
         "origin_price": "39.60",
-        "brief": "\u5927\u6ce2\u5927\u6ce2\u840c\u8d27\u6765\u88adO(\u2229_\u2229)O \u840c\u840c\u54d2\u957f\u8349\u989c\u6587\u5b57\u5c0f\u56e2\u5b50\u73a9\u5076\u516c\u4ed4 \u5f00\u5fc3 \u53ef\u7231 \u751f\u6c14 \u59d4\u5c48\u6b3e\u6b3e\u90fd\u6709~\u8868\u60c5\u63a7\u4eec\u5feb\u5feb\u6536\u4e86\u5b83\u5427\uff0c\u7136\u540e\u4e00\u8d77\u53bb\u840c\u904d\u5927\u8857\u5c0f\u5df7\u54d2\u54d2\u54d2~\r\n",
+        "brief": "大波大波萌货来袭O(∩_∩)O 萌萌哒长草颜文字小团子玩偶公仔 开心 可爱 生气 委屈款款都有~表情控们快快收了它吧，然后一起去萌遍大街小巷哒哒哒~\r\n",
         "figure": "http://image.x-sir.com/app/shopping/1452568739543.jpg"
       },
       {
@@ -129,10 +129,10 @@
         "channel_id": "3",
         "brand_id": "291",
         "p_catalog_id": "22",
-        "name": "\u3010\u957f\u8349\u989c\u6587\u5b57\u3011 \u989c\u8868\u60c5\u5403\u8d27\u7cfb\u5217\u62b1\u6795-\u51b0\u6fc0\u51cc",
+        "name": "【长草颜文字】 颜表情吃货系列抱枕-冰激凌",
         "cover_price": "69.00",
         "origin_price": "138.00",
-        "brief": "O(\u2229_\u2229)O\u840c\u840c\u54d2\u957f\u8349\u989c\u6587\u5b57\u5403\u8d27\u7cfb\u5217\u62b1\u6795\uff0c\u5feb\u6765\u9886\u56de\u5bb6\u3002\u2605\u2605\u53ef\u53e3\u9762\u5305\u2605\u2605\u9999\u55b7\u706b\u817f\u2605\u2605\u8425\u517b\u714e\u86cb\u2605\u2605\u9999\u751c\u51b0\u6dc7\u6dcb\u2605\u2605\u6709\u56db\u79cd\u7f8e\u98df\u53ef\u9009\u54e6\uff0c\u767d\u4e91\u4e00\u6837\u7684\u67d4\u8f6f\uff0c\u53ef\u7231\u7684\u5c0f\u8868\u60c5\uff0c\u5356\u840c\u53c8\u5b9e\u7528\uff0c\u8d76\u5feb\u5e26\u56de\u5bb6\u5427\uff01",
+        "brief": "O(∩_∩)O萌萌哒长草颜文字吃货系列抱枕，快来领回家。★★可口面包★★香喷火腿★★营养煎蛋★★香甜冰淇淋★★有四种美食可选哦，白云一样的柔软，可爱的小表情，卖萌又实用，赶快带回家吧！",
         "figure": "http://image.x-sir.com/app/shopping/1452566540142.jpg"
       },
       {
@@ -140,10 +140,10 @@
         "channel_id": "3",
         "brand_id": "291",
         "p_catalog_id": "26",
-        "name": "\u3010\u957f\u8349\u989c\u6587\u5b57\u3011 \u5403\u8d27\u6302\u4ef6-\u714e\u86cb",
+        "name": "【长草颜文字】 吃货挂件-煎蛋",
         "cover_price": "39.00",
         "origin_price": "65.00",
-        "brief": "O(\u2229_\u2229)O\u840c\u840c\u54d2\u957f\u8349\u989c\u6587\u5b57\u5403\u8d27\u7cfb\u5217\u6302\u4ef6\uff0c\u5feb\u6765\u9886\u56de\u5bb6\u3002\u2605\u2605\u53ef\u53e3\u9762\u5305\u2605\u2605\u9999\u55b7\u706b\u817f\u2605\u2605\u8425\u517b\u714e\u86cb\u2605\u2605\u9999\u751c\u51b0\u6dc7\u6dcb\u2605\u2605\u6709\u56db\u79cd\u7f8e\u98df\u53ef\u9009\u54e6\uff0c\u767d\u4e91\u4e00\u6837\u7684\u67d4\u8f6f\uff0c\u53ef\u7231\u7684\u5c0f\u8868\u60c5\uff0c\u5356\u840c\u53c8\u5b9e\u7528\uff0c\u8d76\u5feb\u5e26\u56de\u5bb6\u5427\uff01",
+        "brief": "O(∩_∩)O萌萌哒长草颜文字吃货系列挂件，快来领回家。★★可口面包★★香喷火腿★★营养煎蛋★★香甜冰淇淋★★有四种美食可选哦，白云一样的柔软，可爱的小表情，卖萌又实用，赶快带回家吧！",
         "figure": "http://image.x-sir.com/app/shopping/1452569644568.jpg"
       },
       {
@@ -151,10 +151,10 @@
         "channel_id": "3",
         "brand_id": "291",
         "p_catalog_id": "26",
-        "name": "\u3010\u957f\u8349\u989c\u6587\u5b57\u3011 \u840c\u7cfb\u7334\u5e74\u516c\u4ed4\u6302\u4ef6",
+        "name": "【长草颜文字】 萌系猴年公仔挂件",
         "cover_price": "39.00",
         "origin_price": "78.00",
-        "brief": "\u3010\u7334\u5e74\u5fc5\u5907\u793c\u3011\u8ba9\u5446\u840c\u7684\u5409\u7965\u7334\u5b50\u6765\u840c\u7ffb\u4f60\u76842016 \u806a\u660e\u673a\u667a\u5982\u4f60\u54df~\u8d70\u4eb2\u670b\u63a2\u597d\u53cb\uff0c\u634e\u4e0a\u51e0\u53ea\u7334\u6302\u4ef6\uff0c\u90a3\u5fc3\u60c5\u5e94\u8be5\u76f8\u5f53\u7f8e\u7f8e\u54d2\u5427",
+        "brief": "【猴年必备礼】让呆萌的吉祥猴子来萌翻你的2016 聪明机智如你哟~走亲朋探好友，捎上几只猴挂件，那心情应该相当美美哒吧",
         "figure": "http://image.x-sir.com/app/shopping/1453097733130.jpg"
       },
       {
@@ -162,10 +162,10 @@
         "channel_id": "3",
         "brand_id": "291",
         "p_catalog_id": "26",
-        "name": "\u3010\u957f\u8349\u989c\u6587\u5b57\u3011 \u5403\u8d27\u6302\u4ef6-\u51b0\u6fc0\u51cc",
+        "name": "【长草颜文字】 吃货挂件-冰激凌",
         "cover_price": "40.80",
         "origin_price": "68.00",
-        "brief": "O(\u2229_\u2229)O\u840c\u840c\u54d2\u957f\u8349\u989c\u6587\u5b57\u5403\u8d27\u7cfb\u5217\u6302\u4ef6\uff0c\u5feb\u6765\u9886\u56de\u5bb6\u3002\u2605\u2605\u53ef\u53e3\u9762\u5305\u2605\u2605\u9999\u55b7\u706b\u817f\u2605\u2605\u8425\u517b\u714e\u86cb\u2605\u2605\u9999\u751c\u51b0\u6dc7\u6dcb\u2605\u2605\u6709\u56db\u79cd\u7f8e\u98df\u53ef\u9009\u54e6\uff0c\u767d\u4e91\u4e00\u6837\u7684\u67d4\u8f6f\uff0c\u53ef\u7231\u7684\u5c0f\u8868\u60c5\uff0c\u5356\u840c\u53c8\u5b9e\u7528\uff0c\u8d76\u5feb\u5e26\u56de\u5bb6\u5427\uff01\r\n",
+        "brief": "O(∩_∩)O萌萌哒长草颜文字吃货系列挂件，快来领回家。★★可口面包★★香喷火腿★★营养煎蛋★★香甜冰淇淋★★有四种美食可选哦，白云一样的柔软，可爱的小表情，卖萌又实用，赶快带回家吧！\r\n",
         "figure": "http://image.x-sir.com/app/shopping/1452569485348.jpg"
       },
       {
@@ -173,10 +173,10 @@
         "channel_id": "3",
         "brand_id": "291",
         "p_catalog_id": "26",
-        "name": "\u3010\u957f\u8349\u989c\u6587\u5b57\u3011 \u5403\u8d27\u6302\u4ef6-\u9762\u5305",
+        "name": "【长草颜文字】 吃货挂件-面包",
         "cover_price": "39.00",
         "origin_price": "65.00",
-        "brief": "O(\u2229_\u2229)O\u840c\u840c\u54d2\u957f\u8349\u989c\u6587\u5b57\u5403\u8d27\u7cfb\u5217\u6302\u4ef6\uff0c\u5feb\u6765\u9886\u56de\u5bb6\u3002\u2605\u2605\u53ef\u53e3\u9762\u5305\u2605\u2605\u9999\u55b7\u706b\u817f\u2605\u2605\u8425\u517b\u714e\u86cb\u2605\u2605\u9999\u751c\u51b0\u6dc7\u6dcb\u2605\u2605\u6709\u56db\u79cd\u7f8e\u98df\u53ef\u9009\u54e6\uff0c\u767d\u4e91\u4e00\u6837\u7684\u67d4\u8f6f\uff0c\u53ef\u7231\u7684\u5c0f\u8868\u60c5\uff0c\u5356\u840c\u53c8\u5b9e\u7528\uff0c\u8d76\u5feb\u5e26\u56de\u5bb6\u5427\uff01",
+        "brief": "O(∩_∩)O萌萌哒长草颜文字吃货系列挂件，快来领回家。★★可口面包★★香喷火腿★★营养煎蛋★★香甜冰淇淋★★有四种美食可选哦，白云一样的柔软，可爱的小表情，卖萌又实用，赶快带回家吧！",
         "figure": "http://image.x-sir.com/app/shopping/1452569983986.jpg"
       },
       {
@@ -184,10 +184,10 @@
         "channel_id": "3",
         "brand_id": "291",
         "p_catalog_id": "26",
-        "name": "\u3010\u957f\u8349\u989c\u6587\u5b57\u3011 \u5403\u8d27\u6302\u4ef6-\u706b\u817f\u80a0",
+        "name": "【长草颜文字】 吃货挂件-火腿肠",
         "cover_price": "40.80",
         "origin_price": "68.00",
-        "brief": "O(\u2229_\u2229)O\u840c\u840c\u54d2\u957f\u8349\u989c\u6587\u5b57\u5403\u8d27\u7cfb\u5217\u6302\u4ef6\uff0c\u5feb\u6765\u9886\u56de\u5bb6\u3002\u2605\u2605\u53ef\u53e3\u9762\u5305\u2605\u2605\u9999\u55b7\u706b\u817f\u2605\u2605\u8425\u517b\u714e\u86cb\u2605\u2605\u9999\u751c\u51b0\u6dc7\u6dcb\u2605\u2605\u6709\u56db\u79cd\u7f8e\u98df\u53ef\u9009\u54e6\uff0c\u767d\u4e91\u4e00\u6837\u7684\u67d4\u8f6f\uff0c\u53ef\u7231\u7684\u5c0f\u8868\u60c5\uff0c\u5356\u840c\u53c8\u5b9e\u7528\uff0c\u8d76\u5feb\u5e26\u56de\u5bb6\u5427\uff01",
+        "brief": "O(∩_∩)O萌萌哒长草颜文字吃货系列挂件，快来领回家。★★可口面包★★香喷火腿★★营养煎蛋★★香甜冰淇淋★★有四种美食可选哦，白云一样的柔软，可爱的小表情，卖萌又实用，赶快带回家吧！",
         "figure": "http://image.x-sir.com/app/shopping/1452569796311.jpg"
       }
     ],

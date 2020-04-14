@@ -1,60 +1,60 @@
 {
   "code": 200,
-  "msg": "\u8bf7\u6c42\u6210\u529f",
+  "msg": "请求成功",
   "result": [
     {
       "p_catalog_id": "69",
       "parent_id": "0",
-      "name": "\u914d\u4ef6",
+      "name": "配件",
       "pic": "",
       "is_deleted": "0",
       "child": [
         {
           "p_catalog_id": "70",
           "parent_id": "69",
-          "name": "\u5e3d\u5b50",
+          "name": "帽子",
           "pic": "http://image.x-sir.com/app/shopping/1446017867549.jpg",
           "is_deleted": "0"
         },
         {
           "p_catalog_id": "105",
           "parent_id": "69",
-          "name": "\u56f4\u5dfe",
+          "name": "围巾",
           "pic": "http://image.x-sir.com/app/shopping/1461642090192.jpg",
           "is_deleted": "0"
         },
         {
           "p_catalog_id": "71",
           "parent_id": "69",
-          "name": "\u914d\u9970",
+          "name": "配饰",
           "pic": "http://image.x-sir.com/app/shopping/1446017886090.jpg",
           "is_deleted": "0"
         },
         {
           "p_catalog_id": "72",
           "parent_id": "69",
-          "name": "\u624b\u8868",
+          "name": "手表",
           "pic": "http://image.x-sir.com/app/shopping/1446017897843.jpg",
           "is_deleted": "0"
         },
         {
           "p_catalog_id": "73",
           "parent_id": "69",
-          "name": "\u9996\u9970",
+          "name": "首饰",
           "pic": "http://image.x-sir.com/app/shopping/1446017920333.jpg",
           "is_deleted": "0"
         },
         {
           "p_catalog_id": "74",
           "parent_id": "69",
-          "name": "\u978b\u5b50",
+          "name": "鞋子",
           "pic": "http://image.x-sir.com/app/shopping/1446017931323.jpg",
           "is_deleted": "0"
         },
         {
           "p_catalog_id": "84",
           "parent_id": "69",
-          "name": "\u889c\u5b50",
+          "name": "袜子",
           "pic": "http://image.x-sir.com/app/shopping/1446017947046.jpg",
           "is_deleted": "0"
         }
@@ -67,9 +67,9 @@
           "p_catalog_id": "71",
           "supplier_type": "1",
           "supplier_code": "300011",
-          "name": "\u3010\u827e\u6f2b\u3011\u5168\u804c\u9ad8\u624b-\u590f\u65e5\u6c34\u624b\u670d\u5fbd\u7ae0\u5957",
+          "name": "【艾漫】全职高手-夏日水手服徽章套",
           "cover_price": "30.00",
-          "brief": "\u5230\u8d27\u5566~",
+          "brief": "到货啦~",
           "figure": "http://image.x-sir.com/app/shopping/1469184599346.jpg",
           "sell_time_start": "1469116800",
           "sell_time_end": "1469721600"
@@ -81,7 +81,7 @@
           "p_catalog_id": "84",
           "supplier_type": "1",
           "supplier_code": "1101035",
-          "name": "\u3010\u55b5\u9e7f\u9171\u3011\u8d85\u840c \u5047\u900f\u8089 \u62fc\u63a5 \u8e29\u811a\u8fc7\u819d\u6253\u5e95\u889c \u88e4\u889c-\u52a0\u7ed2\u4fdd\u6696",
+          "name": "【喵鹿酱】超萌 假透肉 拼接 踩脚过膝打底袜 裤袜-加绒保暖",
           "cover_price": "29.00",
           "brief": "",
           "figure": "http://image.x-sir.com/app/shopping/1452161899947.jpg",
@@ -95,7 +95,7 @@
           "p_catalog_id": "71",
           "supplier_type": "1",
           "supplier_code": "1101037",
-          "name": "\u3010\u753b\u5f71\u3011\u53e4\u98ce \u5934\u9970 Lolita \u7f8a\u5c3e\u5df4 \u88c5\u9970\u6bdb\u94b1\u6d41\u82cf\u53d1\u5939",
+          "name": "【画影】古风 头饰 Lolita 羊尾巴 装饰毛钱流苏发夹",
           "cover_price": "12.00",
           "brief": "",
           "figure": "http://image.x-sir.com/app/shopping/1443527992618.jpg",
@@ -109,7 +109,7 @@
           "p_catalog_id": "70",
           "supplier_type": "2",
           "supplier_code": "100003",
-          "name": "\u9884\u552e \u3010\u4e16\u754c\u7ebf\u7684\u5f7c\u5cb8\u3011\u70b8\u9e21\u5757 \u989c\u6587\u5b57 \u7f8a\u6bdb\u5462\u8d1d\u96f7\u5e3d \u5706\u6da6\u70e7\u997c\u5e3d \u4fdd\u6696",
+          "name": "预售 【世界线的彼岸】炸鸡块 颜文字 羊毛呢贝雷帽 圆润烧饼帽 保暖",
           "cover_price": "49.00",
           "brief": "",
           "figure": "http://image.x-sir.com/app/shopping/1451967280855.jpg",
@@ -123,7 +123,7 @@
           "p_catalog_id": "73",
           "supplier_type": "1",
           "supplier_code": "0",
-          "name": "\u5251\u7f513\u95e8\u6d3e\u884d\u751f\u540c\u4eba\u539f\u521b\u624b\u94fe ",
+          "name": "剑网3门派衍生同人原创手链 ",
           "cover_price": "68.00",
           "brief": "",
           "figure": "http://image.x-sir.com/app/shopping/1450754469244.jpg",
@@ -137,7 +137,7 @@
           "p_catalog_id": "71",
           "supplier_type": "2",
           "supplier_code": "1101026",
-          "name": "\u3010USEE\u54df\u559c\u3011 \u539f\u521b\u7eb9\u8eab\u8d34\u9632\u6c34 \u9ed1\u767d\u5f69\u8272\u6301\u4e45\u7537\u5973\u68ee\u5973\u8774\u8776\u9e7f \u7279\u60e0\u5957\u88c5",
+          "name": "【USEE哟喜】 原创纹身贴防水 黑白彩色持久男女森女蝴蝶鹿 特惠套装",
           "cover_price": "22.00",
           "brief": "",
           "figure": "http://image.x-sir.com/app/shopping/1467361365770.jpg",
