@@ -13,49 +13,49 @@
           "p_catalog_id": "76",
           "parent_id": "75",
           "name": "女包",
-          "pic": "http://image.x-sir.com/app/shopping/1446017977747.jpg",
+          "pic": "http://image.vance.xin/app/shopping/1446017977747.jpg",
           "is_deleted": "0"
         },
         {
           "p_catalog_id": "82",
           "parent_id": "75",
           "name": "单肩包",
-          "pic": "http://image.x-sir.com/app/shopping/1446018101470.jpg",
+          "pic": "http://image.vance.xin/app/shopping/1446018101470.jpg",
           "is_deleted": "0"
         },
         {
           "p_catalog_id": "104",
           "parent_id": "75",
           "name": "其他",
-          "pic": "http://image.x-sir.com/app/shopping/1465384002640.jpg",
+          "pic": "http://image.vance.xin/app/shopping/1465384002640.jpg",
           "is_deleted": "0"
         },
         {
           "p_catalog_id": "77",
           "parent_id": "75",
           "name": "钱包",
-          "pic": "http://image.x-sir.com/app/shopping/1446018023668.jpg",
+          "pic": "http://image.vance.xin/app/shopping/1446018023668.jpg",
           "is_deleted": "0"
         },
         {
           "p_catalog_id": "78",
           "parent_id": "75",
           "name": "帆布袋",
-          "pic": "http://image.x-sir.com/app/shopping/1446018040491.jpg",
+          "pic": "http://image.vance.xin/app/shopping/1446018040491.jpg",
           "is_deleted": "0"
         },
         {
           "p_catalog_id": "79",
           "parent_id": "75",
           "name": "背包",
-          "pic": "http://image.x-sir.com/app/shopping/1446018052794.jpg",
+          "pic": "http://image.vance.xin/app/shopping/1446018052794.jpg",
           "is_deleted": "0"
         },
         {
           "p_catalog_id": "97",
           "parent_id": "75",
           "name": "拉箱",
-          "pic": "http://image.x-sir.com/app/shopping/1449660841905.jpg",
+          "pic": "http://image.vance.xin/app/shopping/1449660841905.jpg",
           "is_deleted": "0"
         }
       ],
@@ -70,7 +70,7 @@
           "name": "【小迷兔】剑网3 剑三周边 软面拉链零钱包 女式手拿包包 丐帮酒壶",
           "cover_price": "33.15",
           "brief": "",
-          "figure": "http://image.x-sir.com/app/shopping/1447999535316.jpg",
+          "figure": "http://image.vance.xin/app/shopping/1447999535316.jpg",
           "sell_time_start": "1478772000",
           "sell_time_end": "1448553600"
         },
@@ -84,7 +84,7 @@
           "name": "【古怪舍】 原创 日式和风  单肩斜挎包 女式印花背包  A103",
           "cover_price": "40.00",
           "brief": "预售到7月下旬",
-          "figure": "http://image.x-sir.com/app/shopping/1466154447310.jpg",
+          "figure": "http://image.vance.xin/app/shopping/1466154447310.jpg",
           "sell_time_start": "1478772000",
           "sell_time_end": "1466697600"
         },
@@ -98,7 +98,7 @@
           "name": "ISOS原创森系甜美印花单肩斜挎包小方包",
           "cover_price": "59.00",
           "brief": "",
-          "figure": "http://image.x-sir.com/app/shopping/1447903575122.jpg",
+          "figure": "http://image.vance.xin/app/shopping/1447903575122.jpg",
           "sell_time_start": "1447862400",
           "sell_time_end": "1448467200"
         },
@@ -112,7 +112,7 @@
           "name": "【绝对萌域】请问您今天要来点兔子吗 智乃 迷你单肩斜挎小包",
           "cover_price": "43.12",
           "brief": "",
-          "figure": "http://image.x-sir.com/app/shopping/1450859589972.jpg",
+          "figure": "http://image.vance.xin/app/shopping/1450859589972.jpg",
           "sell_time_start": "1478772000",
           "sell_time_end": "1447603200"
         },
@@ -126,7 +126,7 @@
           "name": "[散漫舍]怪物猎人4 艾露猫 猫爪切片 背包 单肩包 斜跨包",
           "cover_price": "79.00",
           "brief": "本商品由散漫舍提供，5个工作日内发货",
-          "figure": "http://image.x-sir.com/app/shopping/1449715360061.jpg",
+          "figure": "http://image.vance.xin/app/shopping/1449715360061.jpg",
           "sell_time_start": "1449676800",
           "sell_time_end": "1450281600"
         },
@@ -140,7 +140,7 @@
           "name": "【小迷兔】剑网3剑三周边 新宠卡通门派零钱包 小钱包 女士包",
           "cover_price": "15.00",
           "brief": "",
-          "figure": "http://image.x-sir.com/app/shopping/1469587052018.jpg",
+          "figure": "http://image.vance.xin/app/shopping/1469587052018.jpg",
           "sell_time_start": "1462896000",
           "sell_time_end": "1463500800"
         }
