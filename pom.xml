@@ -24,7 +24,7 @@
         <javaee.version>8.0</javaee.version>
         <commons-dbcp.version>1.4</commons-dbcp.version>
         <jstl.version>1.2</jstl.version>
-        <fastjson.version>1.2.67</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <swagger2.version>2.9.2</swagger2.version>
         <aspectj.version>1.9.4</aspectj.version>
         <hibernate.version>6.0.23.Final</hibernate.version>
