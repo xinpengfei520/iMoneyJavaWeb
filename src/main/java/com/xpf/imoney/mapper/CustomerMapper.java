@@ -1,15 +1,13 @@
 package com.xpf.imoney.mapper;
 
 import com.xpf.imoney.bean.User;
-import org.apache.ibatis.annotations.Insert;
-import org.apache.ibatis.annotations.Options;
-import org.apache.ibatis.annotations.Param;
-import org.apache.ibatis.annotations.Select;
+import org.apache.ibatis.annotations.*;
 
 /**
  * Created by Vance on 2019/07/09 :)
  * Function:User PO 类与 SQL 的映射关系，以面向对象的方式对 PO 类 User 的操作映射成为对应的持久化操作
  */
+@Mapper
 public interface CustomerMapper {
 
     /**
