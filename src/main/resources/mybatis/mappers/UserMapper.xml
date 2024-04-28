@@ -3,7 +3,4 @@
     "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 
 <mapper namespace="com.xpf.imoney.mapper.UserMapper">
-    <select id="findUserById" parameterType="java.lang.Integer" resultType="com.xpf.imoney.bean.User">
-        select * from users where id = #{id}
-    </select>
 </mapper>

@@ -17,7 +17,7 @@ public interface CustomerMapper {
      * @param password
      * @return User
      */
-    @Select("select * from user_inf where name = #{name} and password = #{password}")
+    @Select("select * from customers where name = #{name} and password = #{password}")
     User findUserByNameAndPassword(@Param("name") String name, @Param("password") String password);
 
     /**
@@ -25,7 +25,7 @@ public interface CustomerMapper {
      *
      * @param user
      */
-    @Insert("insert into user_info(name, password, gentle, email, city) values (#{name},#{password},#{gentle},#{email},#{city})")
+    @Insert("insert into customers(name, password, gentle, email, city) values (#{name},#{password},#{gentle},#{email},#{city})")
     @Options(useGeneratedKeys = true, keyProperty = "id")
     void saveUser(User user);
 
@@ -35,7 +35,7 @@ public interface CustomerMapper {
      * @param name
      * @return
      */
-    @Select("select * from user_info where name = #{name}")
+    @Select("select * from customers where name = #{name}")
     User findUserByName(@Param("name") String name);
 
     /**
@@ -44,6 +44,6 @@ public interface CustomerMapper {
      * @param id
      * @return
      */
-    @Select("select * from user_inf where id = #{id}")
+    @Select("select * from customers where id = #{id}")
     User findUserById(@Param("id") int id);
 }
