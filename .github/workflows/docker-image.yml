@@ -42,16 +42,16 @@ jobs:
           password: ${{ secrets.HOST_PASSWORD }}  # 主机密码
           port: ${{ secrets.HOST_PORT }}  # 主机端口
           script: |
-            # 停止并移除现有容器和镜像
-            docker ps | grep "${{ secrets.DOCKER_REPOSITORY }}" | awk '{print $1}' | xargs -r docker stop
-            docker ps -a | grep "${{ secrets.DOCKER_REPOSITORY }}" | awk '{print $1}' | xargs -r docker rm -f
-            docker images -q ${{ secrets.DOCKER_REPOSITORY }} | xargs -r docker rmi -f
+            # 停止并移除现有 VPC 容器和镜像
+            docker ps | grep "${{ secrets.DOCKER_REPOSITORY_VPC }}" | awk '{print $1}' | xargs -r docker stop
+            docker ps -a | grep "${{ secrets.DOCKER_REPOSITORY_VPC }}" | awk '{print $1}' | xargs -r docker rm -f
+            docker images -q ${{ secrets.DOCKER_REPOSITORY_VPC }} | xargs -r docker rmi -f
             # 登录到 Docker 仓库
             docker login --username=${{ secrets.DOCKER_USERNAME }} --password=${{ secrets.DOCKER_PASSWORD }}
-            # 拉取最新的 Docker 镜像
-            docker pull ${{ secrets.DOCKER_REPOSITORY }}:${{ github.run_id }}
+            # 拉取最新的 Docker 镜像，使用 vpc 网络，可以提升速度
+            docker pull ${{ secrets.DOCKER_REPOSITORY_VPC }}:${{ github.run_id }}
             # 运行 Docker 容器
-            docker run -itd --name imoney -p 2001:8080 --net my-network --restart=always ${{ secrets.DOCKER_REPOSITORY }}:${{ github.run_id }}
+            docker run --name imoney -p 2001:8080 --net my-network --restart=always -d ${{ secrets.DOCKER_REPOSITORY_VPC }}:${{ github.run_id }}
 
       # 等待容器启动
       - name: 等待容器启动
