@@ -7,7 +7,6 @@ import com.xpf.imoney.utils.SqlSessionUtils;
 import org.apache.ibatis.session.SqlSession;
 import org.springframework.stereotype.Service;
 
-import javax.annotation.Resource;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -19,12 +18,6 @@ import java.util.List;
 @Service("StudentService")
 public class StudentServiceImpl implements StudentService {
 
-    /**
-     * mybatis 的接口
-     */
-    @Resource
-    private StudentMapper studentMapper;
-
     public StudentServiceImpl() {
     }
 
@@ -34,7 +27,9 @@ public class StudentServiceImpl implements StudentService {
         if (session == null) {
             return new ArrayList<>();
         }
-        return session.selectList("queryAllStudents");
+        List<Student> students = session.getMapper(StudentMapper.class).queryAllStudents();
+        session.close();
+        return students;
     }
 
     @Override
@@ -43,7 +38,9 @@ public class StudentServiceImpl implements StudentService {
         if (session == null) {
             return null;
         }
-        return session.selectOne("findStudentById", id);
+        Student student = session.getMapper(StudentMapper.class).findStudentById(id);
+        session.close();
+        return student;
     }
 
 }
