@@ -1,11 +1,15 @@
 package com.xpf.imoney.bean;
 
+import java.io.Serializable;
+
 /**
  * @author Vancy
  * Function:Student
  * @date 2018年5月12日
  */
-public class Student {
+public class Student implements Serializable {
+
+    private static final long serialVersionUID = 1L;
 
     private int id;
     private String name;
