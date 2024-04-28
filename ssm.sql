@@ -29,12 +29,12 @@ CREATE TABLE `log_info` (
 -- ----------------------------
 -- Records of log_info
 -- ----------------------------
-INSERT INTO `log_info` VALUES ('1', '2017-06-22 13:54:15', '用户 x-sir 注册成功...');
-INSERT INTO `log_info` VALUES ('2', '2017-06-22 13:54:42', 'x-sir登录成功...');
-INSERT INTO `log_info` VALUES ('3', '2017-06-22 15:32:14', 'x-sir登录成功...');
+INSERT INTO `log_info` VALUES ('1', '2017-06-22 13:54:15', '用户 Vance 注册成功...');
+INSERT INTO `log_info` VALUES ('2', '2017-06-22 13:54:42', 'Vance登录成功...');
+INSERT INTO `log_info` VALUES ('3', '2017-06-22 15:32:14', 'Vance登录成功...');
 INSERT INTO `log_info` VALUES ('4', '2017-06-22 15:33:55', '用户 Wang 注册成功...');
 INSERT INTO `log_info` VALUES ('5', '2017-06-22 15:34:04', 'Wang登录成功...');
-INSERT INTO `log_info` VALUES ('6', '2017-06-27 08:36:31', 'x-sir登录成功...');
+INSERT INTO `log_info` VALUES ('6', '2017-06-27 08:36:31', 'Vance登录成功...');
 INSERT INTO `log_info` VALUES ('7', '2017-06-27 08:37:09', '用户Lin注册成功...');
 INSERT INTO `log_info` VALUES ('8', '2017-06-27 08:37:19', 'Lin登录成功...');
 INSERT INTO `log_info` VALUES ('9', '2017-06-27 15:49:42', '存在ID为 3 的用户，查询成功...');
@@ -59,28 +59,28 @@ CREATE TABLE `user_info` (
 -- ----------------------------
 -- Records of user_info
 -- ----------------------------
-INSERT INTO `user_info` VALUES ('1', 'x-sir', '123', '男', 'x-sir@qq.com', 'Shanghai');
+INSERT INTO `user_info` VALUES ('1', 'Vance', '123', '男', 'Vance@qq.com', 'Shanghai');
 INSERT INTO `user_info` VALUES ('2', 'Jack', '123', 'nan', '123@qq.com', 'beijing');
 INSERT INTO `user_info` VALUES ('3', 'Lin', '123', '男', 'lin@163.com', '大同');
-INSERT INTO `user_info` VALUES ('36', 'x-sir', '123', '男', 'x-sir@qq.com', 'Shanghai');
+INSERT INTO `user_info` VALUES ('36', 'Vance', '123', '男', 'Vance@qq.com', 'Shanghai');
 INSERT INTO `user_info` VALUES ('37', 'Lee', '123', '男', 'wang@qq.com', '沈阳');
-INSERT INTO `user_info` VALUES ('38', 'x-sir', '123', '男', 'x-sir@qq.com', 'Shanghai');
-INSERT INTO `user_info` VALUES ('39', 'x-sir', '123', '男', 'x-sir@qq.com', 'Shanghai');
-INSERT INTO `user_info` VALUES ('40', 'x-sir', '123', '男', 'x-sir@qq.com', 'Shanghai');
-INSERT INTO `user_info` VALUES ('41', 'x-sir', '123', '男', 'x-sir@qq.com', 'Shanghai');
-INSERT INTO `user_info` VALUES ('42', 'x-sir', '123', '男', 'x-sir@qq.com', 'Shanghai');
-INSERT INTO `user_info` VALUES ('43', 'x-sir', '123', '男', 'x-sir@qq.com', 'Shanghai');
-INSERT INTO `user_info` VALUES ('44', 'x-sir', '123', '男', 'x-sir@qq.com', 'Shanghai');
-INSERT INTO `user_info` VALUES ('45', 'x-sir', '123', '男', 'x-sir@qq.com', 'Shanghai');
-INSERT INTO `user_info` VALUES ('46', 'x-sir', '123', '男', 'x-sir@qq.com', 'Shanghai');
-INSERT INTO `user_info` VALUES ('47', 'x-sir', '123', '男', 'x-sir@qq.com', 'Shanghai');
-INSERT INTO `user_info` VALUES ('48', 'x-sir', '123', '男', 'x-sir@qq.com', 'Shanghai');
-INSERT INTO `user_info` VALUES ('49', 'x-sir', '123', '男', 'x-sir@qq.com', 'Shanghai');
-INSERT INTO `user_info` VALUES ('50', 'x-sir', '123', '男', 'x-sir@qq.com', 'Shanghai');
-INSERT INTO `user_info` VALUES ('51', 'x-sir', '123', '男', 'x-sir@qq.com', 'Shanghai');
-INSERT INTO `user_info` VALUES ('52', 'x-sir', '123', '男', 'x-sir@qq.com', 'Shanghai');
-INSERT INTO `user_info` VALUES ('53', 'oo', '123', '男', 'x-sir@qq.com', 'Shanghai');
-INSERT INTO `user_info` VALUES ('54', 'o', '123', '男', 'x-sir@qq.com', 'Shanghai');
-INSERT INTO `user_info` VALUES ('55', 'Wang', '123', '男', 'x-sir@qq.com', 'Shanghai');
-INSERT INTO `user_info` VALUES ('56', 'Wang', '123', '男', 'x-sir@qq.com', 'Shanghai');
-INSERT INTO `user_info` VALUES ('57', 'Wang', '123', '男', 'x-sir@qq.com', 'Shanghai');
+INSERT INTO `user_info` VALUES ('38', 'Vance', '123', '男', 'Vance@qq.com', 'Shanghai');
+INSERT INTO `user_info` VALUES ('39', 'Vance', '123', '男', 'Vance@qq.com', 'Shanghai');
+INSERT INTO `user_info` VALUES ('40', 'Vance', '123', '男', 'Vance@qq.com', 'Shanghai');
+INSERT INTO `user_info` VALUES ('41', 'Vance', '123', '男', 'Vance@qq.com', 'Shanghai');
+INSERT INTO `user_info` VALUES ('42', 'Vance', '123', '男', 'Vance@qq.com', 'Shanghai');
+INSERT INTO `user_info` VALUES ('43', 'Vance', '123', '男', 'Vance@qq.com', 'Shanghai');
+INSERT INTO `user_info` VALUES ('44', 'Vance', '123', '男', 'Vance@qq.com', 'Shanghai');
+INSERT INTO `user_info` VALUES ('45', 'Vance', '123', '男', 'Vance@qq.com', 'Shanghai');
+INSERT INTO `user_info` VALUES ('46', 'Vance', '123', '男', 'Vance@qq.com', 'Shanghai');
+INSERT INTO `user_info` VALUES ('47', 'Vance', '123', '男', 'Vance@qq.com', 'Shanghai');
+INSERT INTO `user_info` VALUES ('48', 'Vance', '123', '男', 'Vance@qq.com', 'Shanghai');
+INSERT INTO `user_info` VALUES ('49', 'Vance', '123', '男', 'Vance@qq.com', 'Shanghai');
+INSERT INTO `user_info` VALUES ('50', 'Vance', '123', '男', 'Vance@qq.com', 'Shanghai');
+INSERT INTO `user_info` VALUES ('51', 'Vance', '123', '男', 'Vance@qq.com', 'Shanghai');
+INSERT INTO `user_info` VALUES ('52', 'Vance', '123', '男', 'Vance@qq.com', 'Shanghai');
+INSERT INTO `user_info` VALUES ('53', 'oo', '123', '男', 'Vance@qq.com', 'Shanghai');
+INSERT INTO `user_info` VALUES ('54', 'o', '123', '男', 'Vance@qq.com', 'Shanghai');
+INSERT INTO `user_info` VALUES ('55', 'Wang', '123', '男', 'Vance@qq.com', 'Shanghai');
+INSERT INTO `user_info` VALUES ('56', 'Wang', '123', '男', 'Vance@qq.com', 'Shanghai');
+INSERT INTO `user_info` VALUES ('57', 'Wang', '123', '男', 'Vance@qq.com', 'Shanghai');

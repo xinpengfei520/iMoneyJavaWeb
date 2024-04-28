@@ -48,7 +48,7 @@ public class Swagger2 {
                 // 页面标题
                 .title("SSM Application [iMoney] Swagger2 RESTFul API")
                 // 创建人
-                .contact(new Contact("x-sir", "http://www.x-sir.com", "542270559@qq.com"))
+                .contact(new Contact("Vance", "https://www.vance.xin", "542270559@qq.com"))
                 // 版本号
                 .version("1.0")
                 // 描述
