@@ -3,12 +3,12 @@ package com.xpf.imoney.utils;
 import com.alibaba.fastjson.JSONObject;
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
-import org.apache.http.client.HttpClient;
 import org.apache.http.client.methods.HttpPost;
-import org.apache.http.entity.mime.MultipartEntity;
+import org.apache.http.entity.mime.MultipartEntityBuilder;
 import org.apache.http.entity.mime.content.ContentBody;
 import org.apache.http.entity.mime.content.InputStreamBody;
-import org.apache.http.impl.client.DefaultHttpClient;
+import org.apache.http.impl.client.CloseableHttpClient;
+import org.apache.http.impl.client.HttpClientBuilder;
 import org.apache.http.util.EntityUtils;
 
 import javax.imageio.IIOImage;
@@ -109,14 +109,15 @@ public class DrawableUtils {
      */
     private static String urlImgDownInputStream(InputStream inStream) throws Exception {
         String md5 = MD5Utils.MD5(TimeUtils.getTimestamp());
-        HttpClient httpclient = new DefaultHttpClient();
-        try {
+        try (CloseableHttpClient httpclient = HttpClientBuilder.create().build()) {
+            ContentBody contentBody = new InputStreamBody(inStream, md5 + ".png");
+            HttpEntity httpEntity = MultipartEntityBuilder.create()
+                    .addPart("FileData", contentBody)
+                    .build();
+
             // 文件服务器上传图片地址
             HttpPost post = new HttpPost(IMG_UPLOAD_PATH);
-            MultipartEntity mpEntity = new MultipartEntity();
-            ContentBody contentBody = new InputStreamBody(inStream, md5 + ".png");
-            mpEntity.addPart("FileData", contentBody);
-            post.setEntity(mpEntity);
+            post.setEntity(httpEntity);
             HttpResponse httpResponse = httpclient.execute(post);
             HttpEntity entity = httpResponse.getEntity();
             String jsonStr = EntityUtils.toString(entity);
@@ -126,8 +127,6 @@ public class DrawableUtils {
             }
         } catch (Exception e) {
             e.printStackTrace();
-        } finally {
-            httpclient.getConnectionManager().shutdown();
         }
 
         return null;
