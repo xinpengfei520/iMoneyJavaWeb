@@ -41,7 +41,7 @@ jobs:
           username: ${{ secrets.HOST_USERNAME }}  # 主机用户名
           password: ${{ secrets.HOST_PASSWORD }}  # 主机密码
           port: ${{ secrets.HOST_PORT }}  # 主机端口
-          script: |
+          run: |
             # 停止并移除现有容器和镜像
             docker ps | grep "${{ secrets.DOCKER_REPOSITORY }}" | awk '{print $1}' | xargs -r docker stop
             docker ps -a | grep "${{ secrets.DOCKER_REPOSITORY }}" | awk '{print $1}' | xargs -r docker rm -f
