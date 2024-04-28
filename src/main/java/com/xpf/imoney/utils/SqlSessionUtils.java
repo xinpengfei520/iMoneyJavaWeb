@@ -13,7 +13,7 @@ public class SqlSessionUtils {
     public static SqlSession getSqlSession() {
         InputStream stream = null;
         try {
-            stream = Resources.getResourceAsStream("mybatis-config.xml");
+            stream = Resources.getResourceAsStream("mybatis/mybatis-config.xml");
             SqlSessionFactory factory = new SqlSessionFactoryBuilder().build(stream);
             return factory.openSession();
         } catch (IOException e) {
