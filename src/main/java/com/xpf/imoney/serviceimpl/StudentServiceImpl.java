@@ -3,9 +3,12 @@ package com.xpf.imoney.serviceimpl;
 import com.xpf.imoney.bean.Student;
 import com.xpf.imoney.mapper.StudentMapper;
 import com.xpf.imoney.service.StudentService;
+import com.xpf.imoney.utils.SqlSessionUtils;
+import org.apache.ibatis.session.SqlSession;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;
+import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -27,12 +30,20 @@ public class StudentServiceImpl implements StudentService {
 
     @Override
     public List<Student> getAllStudents() {
-        return studentMapper.queryAllStudents();
+        SqlSession session = SqlSessionUtils.getSqlSession();
+        if (session == null) {
+            return new ArrayList<>();
+        }
+        return session.selectList("queryAllStudents");
     }
 
     @Override
     public Student findStudentById(int id) {
-        return studentMapper.findStudentById(id);
+        SqlSession session = SqlSessionUtils.getSqlSession();
+        if (session == null) {
+            return null;
+        }
+        return session.selectOne("findStudentById", id);
     }
 
 }
