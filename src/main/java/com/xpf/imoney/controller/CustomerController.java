@@ -13,7 +13,7 @@ import javax.validation.Valid;
  * Function:
  */
 @RestController
-@RequestMapping("/users")
+@RequestMapping("/customer")
 public class CustomerController {
 
     private CustomerService customerService;
@@ -34,7 +34,7 @@ public class CustomerController {
      * @param id
      * @return User
      */
-    @RequestMapping(value = "/user/{id}", method = RequestMethod.GET, produces = "application/json")
+    @RequestMapping(value = "/{id}", method = RequestMethod.GET, produces = "application/json")
     public User getUser(@PathVariable("id") int id) {
         User user = customerService.getUser(id);
         log.debug("查询用户 :" + user);
@@ -47,7 +47,7 @@ public class CustomerController {
      * @param user
      * @return
      */
-    @RequestMapping(value = "/user", method = RequestMethod.PUT, produces = "application/json",
+    @RequestMapping(value = "/add", method = RequestMethod.POST, produces = "application/json",
             consumes = "application/json")
     public User addUser(@RequestBody @Valid User user) {
         customerService.addUser(user);

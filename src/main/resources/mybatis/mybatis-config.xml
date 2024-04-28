@@ -8,9 +8,10 @@
         <package name="com.xpf.imoney.bean"/>
     </typeAliases>
 
+    <!-- 默认数据库环境：production -->
     <environments default="production">
         <environment id="production">
-            <transactionManager type="JDBC"></transactionManager>
+            <transactionManager type="JDBC"/>
             <dataSource type="POOLED">
                 <property name="driver" value="${mysql.driver}"/>
                 <property name="url" value="${mysql.url}"/>
@@ -19,7 +20,7 @@
             </dataSource>
         </environment>
         <environment id="development">
-            <transactionManager type="JDBC"></transactionManager>
+            <transactionManager type="JDBC"/>
             <dataSource type="POOLED">
                 <property name="driver" value="${mysql.driver}"/>
                 <property name="url" value="${mysql.url}"/>
@@ -28,7 +29,7 @@
             </dataSource>
         </environment>
         <environment id="test">
-            <transactionManager type="JDBC"></transactionManager>
+            <transactionManager type="JDBC"/>
             <dataSource type="POOLED">
                 <property name="driver" value="${mysql.driver}"/>
                 <property name="url" value="${mysql.url}"/>
