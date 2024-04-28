@@ -21,7 +21,7 @@ import javax.servlet.http.HttpServletResponse;
  * Function:Token的管理，处理用户的登录、登出操作
  */
 @RestController
-@RequestMapping("/tokens")
+@RequestMapping("/token")
 public class TokenController {
 
     private CustomerService customerService;
@@ -49,7 +49,7 @@ public class TokenController {
     /**
      * 登录处理
      */
-    @RequestMapping(method = RequestMethod.POST)
+    @RequestMapping(value = "/login", method = RequestMethod.POST)
     @IgnoreSecurity
     public Response login(@RequestParam("name") String name, @RequestParam("password") String password,
                           HttpServletResponse response) {
@@ -68,7 +68,7 @@ public class TokenController {
     /**
      * 退出登录
      */
-    @RequestMapping(method = RequestMethod.DELETE)
+    @RequestMapping(value = "/logout", method = RequestMethod.POST)
     @IgnoreSecurity
     public Response logout(HttpServletRequest request) {
         String token = request.getHeader(SecurityAspect.DEFAULT_TOKEN_NAME);
