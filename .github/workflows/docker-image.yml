@@ -41,14 +41,11 @@ jobs:
           username: ${{ secrets.HOST_USERNAME }}  # 主机用户名
           password: ${{ secrets.HOST_PASSWORD }}  # 主机密码
           port: ${{ secrets.HOST_PORT }}  # 主机端口
-
-      - name: Stop and remove existing container and image
-        run: |
+          script: |
             # 停止并移除现有容器和镜像
             docker ps | grep "${{ secrets.DOCKER_REPOSITORY }}" | awk '{print $1}' | xargs -r docker stop
             docker ps -a | grep "${{ secrets.DOCKER_REPOSITORY }}" | awk '{print $1}' | xargs -r docker rm -f
             docker images -q ${{ secrets.DOCKER_REPOSITORY }} | xargs -r docker rmi -f
-
             # 登录到 Docker 仓库
             docker login --username=${{ secrets.DOCKER_USERNAME }} --password=${{ secrets.DOCKER_PASSWORD }}
             # 拉取最新的 Docker 镜像
