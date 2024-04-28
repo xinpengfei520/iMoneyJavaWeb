@@ -51,7 +51,7 @@ jobs:
             # 拉取最新的 Docker 镜像
             docker pull ${{ secrets.DOCKER_REPOSITORY }}:${{ github.run_id }}
             # 运行 Docker 容器
-            docker run --name imoney -p 2001:8080 --net my-network --restart=always -d ${{ secrets.DOCKER_REPOSITORY }}:${{ github.run_id }}
+            docker run -itd --name imoney -p 2001:8080 --net my-network --restart=always ${{ secrets.DOCKER_REPOSITORY }}:${{ github.run_id }}
 
       # 等待容器启动
       - name: 等待容器启动
