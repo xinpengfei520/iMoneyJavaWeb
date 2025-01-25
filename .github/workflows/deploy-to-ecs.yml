@@ -2,7 +2,7 @@ name: Docker Image CI & CD
 
 on:
   push:
-    branches: ["master"] #当主分支有推送时触发工作流
+    branches: ["main"] #当主分支有推送时触发工作流
 
 jobs:
   build:
