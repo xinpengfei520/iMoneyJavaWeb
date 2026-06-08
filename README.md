@@ -1,5 +1,12 @@
 # iMoneyJavaWeb
 
+> [!WARNING]
+> **⚠️ 本项目已废弃（Deprecated），停止维护。**
+>
+> ---
+>
+> **⚠️ This project is Deprecated and no longer maintained.**
+
 iMoneyJavaWeb
 
 ## 1.主要技术点

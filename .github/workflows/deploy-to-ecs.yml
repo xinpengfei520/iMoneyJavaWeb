@@ -1,8 +1,7 @@
 name: Docker Image CI & CD
 
 on:
-  push:
-    branches: ["main"] #当主分支有推送时触发工作流
+  workflow_dispatch: # 仅手动触发，项目已废弃，推送不再自动触发部署流水线
 
 jobs:
   build:
